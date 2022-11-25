@@ -1,0 +1,3 @@
+Given a presheaf $\mathcal{F}$, there is a [[Sheaf]] $\mathcal{F}^+$ and a morphism ([[Sheaf Morphisms]]) $\theta :\mathcal{F} \rightarrow \mathcal{F}^+$ s.t. for any morphism of presheaves $\varphi:\mathcal{F}\rightarrow \mathcal{G}$  whith a sheaf $\mathcal{G}$, there is a unique morphism of sheaves $\psi:\mathcal{F}^+\rightarrow\mathcal{G}$ s.t. $\varphi = \psi \circ\theta$.
+The pair $(\mathcal{F}^+,\theta)$ is unique up to isomorphism.
+$\mathcal{F}^+$ is called the *sheaf associated to the presheaf $\mathcal{F}$*. 

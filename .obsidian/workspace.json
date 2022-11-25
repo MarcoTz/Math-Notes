@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "4cae2a6b59ed9f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c61626e1b2210c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e90808cf43d9f2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20ab9aad88599c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe108a04a5b1f053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0465211a1e2a7cfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6bef7b8abcab00b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1240c0b0b6ee439a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e0b17f1b36adc931",
+    "type": "split",
+    "children": [
+      {
+        "id": "a899c0dede20c431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3f977c335a8541",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3207d02454f77ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad961f4adab6b3a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4730143ed6d43ce9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5,
+    "collapsed": true
+  },
+  "active": "e90808cf43d9f2d3",
+  "lastOpenFiles": [
+    "Algebraic Geometry/Variety.md",
+    "Algebraic Geometry/Schemes and Varieties.md",
+    "Deformations of a Scheme.md",
+    "Fibre of a Morphism of Schemes.md",
+    "Proper Morphism.md",
+    "Separated Morphisms.md",
+    "Algebraic Geometry/Properties of Schemes.md",
+    "Algebraic Geometry/Projective Scheme.md",
+    "Projective Morphisms.md",
+    "img/Separated Morphism Scheme.png"
+  ]
+}

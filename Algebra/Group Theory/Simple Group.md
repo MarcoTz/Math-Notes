@@ -1,0 +1,1 @@
+A [[Group]] $G$ is called *simple* if the only [[Normal Subgroup]]s of $G$ are $G$ and $\{e\}$.

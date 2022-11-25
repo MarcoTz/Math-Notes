@@ -1,0 +1,1 @@
+Let  $X$ be a [[Scheme]] over a [[Field]] $k$ ([[Scheme over a Scheme]]), then a *family of deformations* of $X$ is a morphism $f:X\rightarrow Y$ with $Y$ connected ([[Connectedness]]) and a point $y_0\in Y$ s.t. $k(y_0)=k$ and $X_{y_0}\cong X$. Then the fibres ([[Fibre of a Morphism of Schemes]]) $X_y$ of $f$ are called *deformations of  $X$*.

@@ -1,0 +1,10 @@
+Let $\langle I,\leq \rangle$ be an [[Order]]ed set, and $\{A_i|i\in I\}$ a family of objects indiced by $I$ and $f_{ij}:A_i\rightarrow A_j$ a [[Homomorphism]] for all $i\leq j$, s.t.
+* $f_{ii} = \mathbb{1}_{A_i}$ 
+* $f_{ik} = f_{jk}\circ f_{ij}$ for alle $i\leq j\leq k$ 
+Then $\langle A_i,f_{ij} \rangle$ is called a *direct system* over $I$.
+
+For a direct system $\{A_i,f_{ij}\}$, the *direct limit* is defined as 
+
+$$ \underrightarrow{lim}A_i = \bigsqcup_i A_i /\sim$$ where $\sim$ is the equivalence relation ([[Relation#Equivalence Relations]]) defined by 
+
+$$ x_i \sim x_j \Leftrightarrow f_{ik}(x_i) = f_{jk}(x_j) \text{ for some }k\in I, i\leq k,j\leq k$$

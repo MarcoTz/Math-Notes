@@ -1,0 +1,2 @@
+If $N\subseteq G$ is a [[Normal Subgroup]] of $G$, then the *quotient group* or *factor group* $G$ mod $H$, $G/H$ is the set of all [[Coset]]s of $N$ with product $gN \cdot hN = (gh)N$.
+The [[Homomorphism]] $\rho :G\rightarrow G/N g \mapsto gN$ is called the *canonical homomorphism* or *quotient homomorphism*.

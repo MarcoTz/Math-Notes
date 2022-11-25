@@ -1,0 +1,2 @@
+A [[Topological Space]] $X$ is called *Lindelöf* if every open cover ([[Topological Space#Covers]]) has a countable subcover ([[Natural numbers]])
+Being Lindelöf is a slightly weaker condition than [[Compactness]]

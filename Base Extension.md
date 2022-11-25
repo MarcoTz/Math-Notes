@@ -1,0 +1,3 @@
+Let $S$ be a fixed [[Scheme]], which we will call *base scheme*. Then for any other base scheme $S^{\prime}$ with a morhpism $S\rightarrow S^{\prime}$ and a scheme $X$ over $S$ ([[Scheme over a Scheme]]) let $X^{\prime} = X\times_S S^{\prime}$ which will be a scheme over $S^{\prime}$. Then we say $X^{\prime}$ is obtained from $X$ by *base extension*.
+
+Base extension is transitive. If $S^{\prime\prime} \rightarrow S^{\prime} \rightarrow S$ are two morphisms, then $(X\times_S S^{\prime}) \times _S^{\prime} S^{\prime\prime} \cong X\times _S S^{\prime\prime}$ 

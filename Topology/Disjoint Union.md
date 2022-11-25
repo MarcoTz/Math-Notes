@@ -1,0 +1,5 @@
+The *disjoint union* of [[Topological Space]]s $X$ and $Y$, $X \sqcup Y$ is the set ([[Sets#Sets]]) containing all elements of $X$ and $Y$, where elements of $X\cap Y$ are considered distinct as elements of $X$ and of $Y$.  
+For example, the disjoint union of $\{1,2,3\}$ and $\{2,3,4\}$ contains two copies of $2$ and $3$, considered different elements.
+In set-theoretic terms, elements in $X\sqcup Y$ have the form $(x,X)$ or $(y,Y)$ for $x\in X$ and $y\in Y$, so $X\sqcup Y = (X\times \{X\} )\cup (Y\times \{Y\})$. For prectical purposes, the annotations $X$ and $Y$ are usually omitted.
+
+On $X\sqcup  Y$, the *union topology* is the finest topology (i.e. containing the most open sets) s.t. the canonical Injections ([[Function#Injections Surjections and Bijections]]) $\varphi_X: X \rightarrow X\sqcup Y$ and $\varphi_Y : Y\rightarrow X\sqcup Y$ are [[Continous Function]]s. 

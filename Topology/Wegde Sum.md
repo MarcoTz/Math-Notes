@@ -1,0 +1,1 @@
+Given [[Topological Space]]s $X$ and $Y$ with points $x_0\in X$ and $y_0\in Y$, the *wedge sum* $X\vee Y$ is the quotient space ([[Topology/Quotient Space]]) of the [[Disjoint Union]] $X\sqcup Y$ with the identification $x_0\sim y_0$

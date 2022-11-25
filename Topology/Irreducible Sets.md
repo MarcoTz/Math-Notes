@@ -1,0 +1,1 @@
+A subset $Y\subseteq X$ of a [[Topological Space]] $X$ is called *irreducible*, if whenever $Y=Y_1\cup Y_2$ for two closed subsets $Y_1$ and $Y_2$ of $Y$, then $Y=Y_1$ or $Y=Y_2$.

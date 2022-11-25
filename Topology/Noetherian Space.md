@@ -1,0 +1,3 @@
+A [[Topological Space]] $X$ is called *noetherian* if it satisfies the *descending chain condition* for closed subsets, i.e. for any sequence $Y_1\supseteq Y_2 \supseteq \dots$ of closed subsets, there is some $r$ with $Y_r = Y_{r+1} = \dots$  
+
+In a noetherian space $X$, any nonempty closed subset $Y$ can be written as a finite union $Y=Y_1\cup \dots \cup Y_r$ of irreducible closed subsets of $Y$ ([[Irreducible Sets]]). These are called the *irreducible components of $Y$*.

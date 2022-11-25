@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "4cae2a6b59ed9f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "09381818d50810fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Erhard Polynomial.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20ab9aad88599c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe108a04a5b1f053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0465211a1e2a7cfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6bef7b8abcab00b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1240c0b0b6ee439a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "e0b17f1b36adc931",
+    "type": "split",
+    "children": [
+      {
+        "id": "a899c0dede20c431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3f977c335a8541",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Erhard Polynomial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3207d02454f77ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Erhard Polynomial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad961f4adab6b3a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4730143ed6d43ce9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Erhard Polynomial.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5,
+    "collapsed": true
+  },
+  "active": "09381818d50810fa",
+  "lastOpenFiles": [
+    "Polytope.md",
+    "Convexity.md",
+    "Modulo.md",
+    "Notations.md",
+    "Erhard Polynomial.md",
+    "Metric Spaces/Euclidean Space.md",
+    "Lattice.md",
+    "Graph.md",
+    "Topology/Spheres.md",
+    "Algebraic Topology/The Fundamental Group.md"
+  ]
+}

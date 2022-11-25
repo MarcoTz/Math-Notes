@@ -1,0 +1,2 @@
+Given two [[Topological Space]]s $X$ and $Y$, with points $x_0\in X$ and $y_0\in Y$ we identify $X$ with the subspace $X\times \{y_0\}$ and $Y$ with the subspace $\{x_0\}\times Y$. Since these two subspaces only intersect in $(x_0,y_0)$, we can identify the union of these subspaces with the [[Wegde Sum]] $X\vee Y$.
+Then we define the *smash product* $X\wedge Y$ as the quotient space ([[Topology/Quotient Space]]) $X\times Y/X\vee Y$

@@ -1,0 +1,22 @@
+Let $S=\bigoplus_{d\geq 0} S_d$ be a [[Graded Ring]], with the [[Ideal]] $S_+ =  \bigoplus_{d>0}S_d$. 
+Then $ProjS$ is the set of all homogeneous [[Prime Ideal]]s not containing $S_+$.
+For any homogeneous ideal $a$ we define $V(a) = \{p\in ProjS | a \subseteq p\}$. This has the following properties 
+
+* $V(ab) = V(a)\cup V(b)$ for any two homogeneous ideals $a$ and $b$.
+* For a family of homogeneous ideals $\{a_i\}$ wehave $V(\sum_i a_i) = \bigcup_i V(a_i)$
+
+By taking all subsets of the form $V(a)$ to be closed, this defines a topology [[Topological Space]] on $ProjS$. 
+
+We will write $S_{(p)}$ to be the set of elements with degree $0$ in $T^{-1}S$ where $T$ is the multiplicative system of all homogeneous elements of $S$ not in $p$ ([[Localization]]). Then we define a [[Sheaf]] $\mathcal{O}$ on $ProjS$ by taking $\mathcal{O}(U)$ to be the set of all functions $s:U\rightarrow \bigsqcup S_{(p)}$ s.t. $s(p)\in S_{(p)}$ for each $p$ in $U$. This is a sheaf with the natural restriction maps. 
+
+Then the *projective scheme* of $S$ is $(Proj S,\mathcal{O})$. (compare [[Spectrum]]). We write $D_+(f) = \{p\in Poj S | f\notin p\}$ for any $f\in S$. This is a [[Scheme]] with the following properties
+
+* $\mathcal{O}_P \cong S_{(p)}$ for all $p\in Proj S$
+* $D_+(f)$ is open in $ProjS$ and these open sets cover $ProjS$.
+* We have an isomorphism $(D_+(f),\mathcal{O}_{D_+(f)}) \cong Spec S_{(f)}$  
+
+The projective $n$-space over a scheme $Y$, denoted $\mathbb{P}^n_Y$, is defined as the scheme $\mathbb{P}^n_{\mathbb{Z}} \times_{Spec\mathbb{Z}} Y$ ([[Fibred Product]]), where $\mathbb{P}^n_{\mathbb{Z}}=Proj\mathbb{Z}[x_0,\dots,x_n]$ ([[Schemes and Varieties]]).
+A morphism $f:X\rightarrow Y$ of schemes is *projective*, if it factors into a closed immersion ([[Open and Closed Subschemes]]) $i:X\rightarrow \mathbb{P}^n_Y$ for some $n$ followed by the projection $\mathbb{P}^n_Y \rightarrow Y$. 
+A morphism $f:X\rightarrow Y$ of schemes is *quasi-projective* if it factors into an open immersion $j:X\rightarrow X^{\prime}$ followed by a projective morphism. 
+
+A projective morphism of [[Noetherian Scheme]]s is a [[Proper Morphism]]. A quasi-projective morphism of noetherian schemes is of finite type ([[Finite Morphisms of Schemes]]) and separated ([[Separated Morphisms]]).
