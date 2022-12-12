@@ -1,4 +1,4 @@
-A [[scheme]] $X$ is *locally noetherian*, if it can be covered by open affine subsets $SpecA_i$ ([[Spectrum]]) where each $A_i$ is a [[Noetherian Ring]].
+A [[Scheme]] $X$ is *locally noetherian*, if it can be covered by open affine subsets $SpecA_i$ ([[Spectrum]]) where each $A_i$ is a [[Noetherian Ring]].
 $X$ is noetherian if it is locally noetherian and quasi-compact ([[Quasi-Compactness]]).
 A scheme $X$ is locally noetherian iff for every open affine subset $U=SpecA$, $A$ is noetherian. In particular, an affine scheme $Spec A$ is noetherian iff $A$ is noetherian.
 

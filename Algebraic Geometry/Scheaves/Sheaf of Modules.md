@@ -1,0 +1,9 @@
+Let $(X,\mathcal{O}_X)$ be a [[Ringed Space]]. Then a *sheaf of $\mathcal{O}_X$-modules* or an *$\mathcal{O}_X$-module* is a [[Sheaf]] $\mathcal{F}$ on $X$, s.t. for each open $U\subseteq X$, $\mathcal{F}(U)$ is an $\mathcal{O}_X(U)$-[[Module]] and for each inclusion $V\subseteq U$ the restriction homomorhpism $\mathcal{F}(U)\rightarrow \mathcal{F}(V)$ is compatible with the ring homomorphism $\mathcal{O}_X(U)\rightarrow\mathcal{O}_X(V)$.
+
+A *morphism* $\mathcal{F}\rightarrow\mathcal{G}$ of sheaves of $\mathcal{O}_X$-modules is a morphism of sheaves ([[Sheaf Morphisms]]) s.t. for each open $U\subseteq X$, $\mathcal{F}\rightarrow\mathcal{G}$ is a $\mathcal{O}_X$-module homomorphism.
+
+The kernel, cokernel, image, preimage ([[Sheaf Morphisms#kernel, cokernel, image, preimage]]), quotient, direct sums, direct products, [[Direct Limit]] and [[Inverse Limit]] of morphisms of $\mathcal{O}_X$-module are again $\mathcal{O}_X$-modules.
+
+For two $\mathcal{O}_X$-modules $\mathcal{F}$ and $\mathcal{G}$, the [[Group]] of morphisms $\mathcal{F}\rightarrow\mathcal{G}$ is denoted by $Hom_{\mathcal{O}_X}(\mathcal{F},\mathcal{G})$. 
+The restriction $\mathcal{F}|_U$ of a $\mathcal{O}_X$-module to an open subset is again a $\mathcal{O}_X$-module and the sheaf of $\mathcal{O}_X$-modules $U\mapsto Hom_{O_{X}|_U}(\mathcal{F}|_U,\mathcal{G}|_U)$ is called the *sheaf $\mathcal{Hom}$* and denoted $\mathcal{Hom}_{\mathcal{O}_X}(\mathcal{F},\mathcal{G})$.
+The [[Tensor Product]] of two $\mathcal{O}_X$-modules $\mathcal{F}$ and $\mathcal{G}$, $\mathcal{F}\otimes_{\mathcal{O}_X}\mathcal{G}$ is the sheaf associated to $U\mapsto \mathcal{F}(U) \otimes_{O_X(U)} \mathcal{G}(U)$ ([[Associated Sheaf]]).
