@@ -1,0 +1,5 @@
+
+A *$n$-manifold with boundary* is a [[Hausdorff Space]] $M$ s.t. for each $x\in M$ there is an open neighborhood that is homeomorphic to either $\mathbb{R}^n$ or $\mathbb{R}^n_+ = \{(x_1,\dots,x_n)\in \mathbb{R}^n| x_n\geq 0\}$. (generalizing [[Topological Manifold]]s).
+Points mapping to a point in $\mathbb{R}^n_+$ with $x_n = 0$ form a well-defined subspace, called the *boundary of $M$*, denoted $\partial M$. Then $\partial M$ is a $(n-1)$-manifold without boundary.
+
+If $M$ is compact and $R$-orientable ([[Orientation]]) (i.e. $M\setminus \partial M$ is $R$-orientable), and s.t. $\partial M$ can be decomposed as the union of two compact $(n-1)$-dimensional manifolds $A$ and $B$ with $\partial A = \partial B = A\cap B$. Then given a [[Orientation class]] $[M]\in H_n(M,\partial M;R)$,the duality map $D_M:H^k(M,A;R)\rightarrow H_{n-k}(M,B;R) \quad \alpha \mapsto [M]\frown \alpha$   gives an isomorphism for all $k$

@@ -8,3 +8,5 @@ With [[Singular Homology]] Grups, we have the formula
 $$ \chi(X) =\sum(X)(-1)^n rankH_n(X)$$
 
 (see [[Abelian Group#Finitely Generated Abelian Groups]]])
+
+A closed [[Topological Manifold]] of odd dimension has Euler characteristic $0$.

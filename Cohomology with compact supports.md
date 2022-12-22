@@ -1,0 +1,2 @@
+
+Let $X$ be a [[Topological Space]]. For each compact ([[Compactness]]) $K\subseteq X$ we associate the group $H^i(X,X\setminus K;G)$ with fixed $i$ and $G$ ([[Cohomology]]). Then for each inclusion $K\subseteq L$ of compact sets, we have the natural homomorphism $H^i(X,X\setminus K;G)\rightarrow H^i(X,X\setminus L;G)$ and we have a directed system ([[Direct Limit]]). The limit group $\underrightarrow{\lim}H^i(X,X\setminus K;G)$ is then the *cohomology group with compact supports* $H_c^i(X;G$)$ 

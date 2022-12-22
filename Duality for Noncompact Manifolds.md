@@ -1,0 +1,2 @@
+For an $R$-orientable ([[Orientation]]) $n$-manifold $M$ ([[Topological Manifold]]), the duality map $D_M:H_c^k(M;R)\rightarrow H_{n-k}(M;R)$ ([[Cohomology with compact supports]]) is defined as the homomorphism induced by the [[Direct Limit]] from the homomorphisms $H^k(M,M\setminus K;R)\rightarrow H_{n-k}(M;R)$ 
+This map is an isomorphism for all $k$ 
