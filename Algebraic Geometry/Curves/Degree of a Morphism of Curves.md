@@ -1,0 +1,1 @@
+Let $f:X\rightarrow Y$ be a finite morphism ([[Finite Morphisms of Schemes]]) of [[Curve (Scheme)]]s. Then the *degree of f* is the degree of the [[Field Extension]] $[K(X):K(Y)]$ 
