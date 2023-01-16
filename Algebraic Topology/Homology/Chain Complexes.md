@@ -25,3 +25,11 @@ A *chain homotopy* $D:f\rightarrow g$ between chain maps $f$ and $g$ is a sequen
 
 Given a chain complex with chain groups $C_n$ and boundary maps $\partial$, applying the operator $Hom(-,G)$ to $C_n$, i.e. replacing $C_n$ by the dual group of homomorphisms $C_n\rightarrow G$ for a fixed abelian group $G$ and replacing the boundary maps $\partial$ with their dual maps $\partial^*$, written $\delta$, defined as the composition $\delta(\varphi) = \varphi\circ \delta$, gives a new chain complex called the *cochain complex* of the original one.
 We write the chain groups $Hom(C_n,G)$ as $C_n^*$, then $\delta$ maps $C_n$ to $C_{n+1}$.
+
+### [[Tensor Product]]
+
+Given two chain complexes $C$ and $C^{\prime}$ the *thensor product chain complex* $C\otimes C^{\prime}$ of $C$ and $C^{\prime}$  is defined as 
+
+$$ (C\otimes C^{\prime})_n = \bigoplus_i (C_i\otimes_R C_{n-i}^{\prime}) $$ with boundary map 
+
+$$ \partial(c\otimes c^{\prime}) = \partial c \otimes c^{\prime} + (-1)^i c \otimes \partial c^{\prime} $$ for $c\in  C_i$ and $c^{\prime}\in C_{n-1}$ 

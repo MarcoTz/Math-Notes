@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71b920e4528a2da3",
+            "id": "57f6ed7f9da21334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Geometry/Divisors/Picard Group.md",
+                "file": "Homological Cross Product.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59f75ceb7b8f0c2f",
+            "id": "3e1c62a2b7f68172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Geometry/Divisors/Sheaf associated to a Cartier Divisor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8b42a7ae854eb72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebraic Geometry/Divisors/Sheaf associated to a Cartier Divisor.md",
+                "file": "Künneth Formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invertible",
+                "query": "Künneth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e0b17f1b36adc931",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Geometry/Divisors/Sheaf associated to a Cartier Divisor.md",
+                "file": "Künneth Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Geometry/Divisors/Sheaf associated to a Cartier Divisor.md",
+                "file": "Künneth Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Geometry/Divisors/Sheaf associated to a Cartier Divisor.md"
+                "file": "Künneth Formulas.md"
               }
             }
           }
@@ -171,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0465211a1e2a7cfa",
+  "active": "3e1c62a2b7f68172",
   "lastOpenFiles": [
-    "Algebraic Geometry/Divisors/Effective Divisor.md",
-    "Algebraic Geometry/Divisors/Sheaf associated to a Cartier Divisor.md",
-    "Algebraic Geometry/Divisors/Picard Group.md",
-    "Algebraic Geometry/Scheaves/Free Module of Scheaves.md",
+    "Algebraic Topology/Cohomology/Cross Product.md",
+    "Homological Cross Product.md",
+    "Künneth Formulas.md",
     "Algebraic Topology/Homology/Universal Coefficient theorem for homology.md",
-    "Algebraic Geometry/Divisors/Total Quotient Ring.md",
-    "Algebraic Geometry/Divisors/Induced Morphism on Divisors.md",
-    "Algebraic Topology/van Kampen's Theorem.md",
-    "Algebraic Topology/Universal Covering Space.md",
-    "Algebraic Topology/The Homotopy Extension Property.md"
+    "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md",
+    "Differential Geometry/Topological Manifold.md",
+    "Algebraic Topology/Homology/Singular Homology.md",
+    "Differential Geometry/Orientation class.md",
+    "Algebra/Ring Theory/Polynomial Ring.md",
+    "Algebra/Field Theory/Normal Field Extension.md"
   ]
 }
