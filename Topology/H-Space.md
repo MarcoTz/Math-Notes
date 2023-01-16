@@ -1,0 +1,3 @@
+A [[Topological Space]] $X$ is called an *H-space* or *Hopf-space* if there is a [[Continous Function]] $\mu:X\times X\rightarrow X$, called *multiplication* and an element $e\in X$, called *identity* s.t. the maps $x\mapsto \mu(x,e)$ and $x\mapsto \mu(e,x)$ are homotopic ([[Homotopy]])  to the identity through maps $(X,e)\rightarrow (X,e)$ (i.e. the homotopies fix $e$). 
+
+If $X$ is a CW complex ([[Cell Complexes]]) this definition is equivalent to requiring the above maps to be the identity (and not just homotopic to it) and also equivalent to dropping the condition that the homotopies have to fix $e$.

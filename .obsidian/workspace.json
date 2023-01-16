@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blowing Up.md",
+                "file": "Algebraic Geometry/Blowing Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9677aab48418131a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topology/H-Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a60d25270df7471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebraic Topology/Hopf Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf64c4fcb0f7fa11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pontryagin Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strict Transform.md",
+                "file": "Algebraic Geometry/Strict Transform.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blowing Up.md",
+                "file": "Algebraic Topology/Hopf Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blowing Up.md",
+                "file": "Algebraic Topology/Hopf Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blowing Up.md"
+                "file": "Algebraic Topology/Hopf Algebra.md"
               }
             }
           }
@@ -158,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1724c2940f7b0e32",
+  "active": "4a60d25270df7471",
   "lastOpenFiles": [
-    "Strict Transform.md",
+    "Pontryagin Product.md",
+    "Algebraic Topology/Hopf Algebra.md",
+    "Exterior Algebra.md",
+    "Topology/H-Space.md",
+    "Algebraic Geometry/Blowing Up.md",
+    "Algebraic Geometry/Strict Transform.md",
     "img/strict transform.png",
     "img/Fibred Product Diagram.png",
     "img/Cokernel Diagram.png",
-    "img/Blowing Up.png",
-    "Blowing Up.md",
-    "Inverse Image Ideal Sheaf.md",
-    "Proj.md",
-    "Projective Sheaf Bundle.md",
-    "Tensor Operations on Sheaves.md"
+    "img/Blowing Up.png"
   ]
 }
