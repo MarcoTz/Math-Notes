@@ -1,0 +1,6 @@
+
+Let $X$ be a [[Noetherian Scheme]] and $\mathcal{E}$ a locally free, coherent [[Sheaf]] on $X$ ([[Free Scheaf of Modules]],[[Coherent Sheaf of modules]]). Then the *projective space bundle* $\mathbb{P}(\mathcal{E})$ is defined as follows. Let $\mathcal{J}=S(\mathcal{E})=\bigoplus_{d>0}S^d(\mathcal{E})$ the symmetric algebra of $\mathcal{E}$ ([[Tensor Operations on Sheaves]]). Then $\mathcal{J}$ satisfies the conditions for [[Proj]] and we define $Proj(\mathcal{E}) = Proj\mathcal{J}$ 
+
+If $rank\mathcal{E}\geq 2$ there is a canonical isomorphism of graded $\mathcal{O}_X$-algebras $\mathcal{J}\cong \bigoplus_{l\in\mathbb{Z}}\pi_*(\mathcal{O}(l))$ ([[Twisting Sheaf]]) where the grading on the right-hand side is given by $l$.
+In general, there is always a natural surjective morphism $\pi^*\mathcal{E} \rightarrow \mathcal{O}(1)$.
+For a morphism $g:Y\rightarrow X$, a morphism $Y\rightarrow \mathbb{P}(\mathcal{E})$ over $X$ ([[Scheme over a Scheme]]) is equivalent to an invertible sheaf $\mathcal{L}$ on $Y$ and a surjective map of sheaves on $Y$, $g^*\mathcal{E}\rightarrow \mathcal{L}$ 

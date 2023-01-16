@@ -2,7 +2,7 @@ Let $D$ be a [[Cartier Divisor]] on a scheme $X$, represented by $\{U_i,f_i)\}$,
 
 These sheaves have the following properties
 
-* for any Cartier Divisor $D$, $\mathcal{L}(D)$ is an invertible sheaf ([[Free Module of Scheaves]]) on $X$
+* for any Cartier Divisor $D$, $\mathcal{L}(D)$ is an invertible sheaf ([[Free Scheaf of Modules]]) on $X$
 * The map $D\mapsto \mathcal{L}(D)$ gives a $1-1$ correspondence between Cartier Divisors on $X$ and invertible subsheaves of $\mathcal{K}$
 * $\mathcal{L}(D_1-D_2)\cong \mathcal{L}(D_1) \otimes \mathcal{L}(D_2)^{-1}$ 
 * $D_1\sim D_2$ iff $\mathcal{L}(D_1)\cong \mathcal{L}(D_2)$ 

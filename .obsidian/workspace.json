@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6983a5052980861d",
+        "id": "c663b9eb91d4c8da",
         "type": "tabs",
         "children": [
           {
-            "id": "57f6ed7f9da21334",
+            "id": "1724c2940f7b0e32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homological Cross Product.md",
+                "file": "Blowing Up.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e1c62a2b7f68172",
+            "id": "d3fecda367055cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Künneth Formulas.md",
+                "file": "Strict Transform.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Künneth",
+                "query": "immersion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e0b17f1b36adc931",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Künneth Formulas.md",
+                "file": "Blowing Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Künneth Formulas.md",
+                "file": "Blowing Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Künneth Formulas.md"
+                "file": "Blowing Up.md"
               }
             }
           }
@@ -160,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1c62a2b7f68172",
+  "active": "1724c2940f7b0e32",
   "lastOpenFiles": [
-    "Algebraic Topology/Cohomology/Cross Product.md",
-    "Homological Cross Product.md",
-    "Künneth Formulas.md",
-    "Algebraic Topology/Homology/Universal Coefficient theorem for homology.md",
-    "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md",
-    "Differential Geometry/Topological Manifold.md",
-    "Algebraic Topology/Homology/Singular Homology.md",
-    "Differential Geometry/Orientation class.md",
-    "Algebra/Ring Theory/Polynomial Ring.md",
-    "Algebra/Field Theory/Normal Field Extension.md"
+    "Strict Transform.md",
+    "img/strict transform.png",
+    "img/Fibred Product Diagram.png",
+    "img/Cokernel Diagram.png",
+    "img/Blowing Up.png",
+    "Blowing Up.md",
+    "Inverse Image Ideal Sheaf.md",
+    "Proj.md",
+    "Projective Sheaf Bundle.md",
+    "Tensor Operations on Sheaves.md"
   ]
 }

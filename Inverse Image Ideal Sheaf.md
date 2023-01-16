@@ -1,0 +1,3 @@
+
+Lety $f:X\rightarrow Y$ be a morphism of sheaves ([[Sheaf Morphisms]]) and $\mathcal{I}\subseteq \mathcal{O}_Y$ a [[Sheaf of Ideals]] on $Y$. Then the *inverse image ideal sheaf* $\mathcal{I}^{\prime}\subseteq \mathcal{O}_X$ is then defined as the image of $f^{-1}\mathcal{I}$ under the natural homomorhpism $f^{-1}\mathcal{O}_Y \rightarrow \mathcal{O}_X$, (see [[Image and Preimage Sheaf]]). We denote $\mathcal{I}^{\prime}$ by $f^{-1}\mathcal{I}\cdot \mathcal{O}_X$ or $\mathcal{I}\cdot \mathcal{O}_X$ if $f$ is clear.
+In general this is not equal to the [[Inverse Image Ideal Sheaf]] of $\mathcal{I}$.
