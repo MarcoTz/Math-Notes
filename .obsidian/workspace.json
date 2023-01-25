@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c663b9eb91d4c8da",
+        "id": "69eff32591799570",
         "type": "tabs",
         "children": [
           {
-            "id": "1724c2940f7b0e32",
+            "id": "9278e63c9b671a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Geometry/Blowing Up.md",
+                "file": "Linear Algebra/Special Orthogonal Group.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9677aab48418131a",
+            "id": "700bdf952193aac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topology/H-Space.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a60d25270df7471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebraic Topology/Hopf Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf64c4fcb0f7fa11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pontryagin Product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3fecda367055cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebraic Geometry/Strict Transform.md",
+                "file": "Linear Algebra/Orthogonal Group.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "immersion",
+                "query": "transpose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Topology/Hopf Algebra.md",
+                "file": "Linear Algebra/Orthogonal Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Topology/Hopf Algebra.md",
+                "file": "Linear Algebra/Orthogonal Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Topology/Hopf Algebra.md"
+                "file": "Linear Algebra/Orthogonal Group.md"
               }
             }
           }
@@ -195,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a60d25270df7471",
+  "active": "0465211a1e2a7cfa",
   "lastOpenFiles": [
-    "Pontryagin Product.md",
-    "Algebraic Topology/Hopf Algebra.md",
-    "Exterior Algebra.md",
-    "Topology/H-Space.md",
-    "Algebraic Geometry/Blowing Up.md",
+    "Metric Spaces/Isometry.md",
+    "Topology/Topological Group.md",
+    "Linear Algebra/Orthogonal Group.md",
+    "Linear Algebra/Special Orthogonal Group.md",
+    "Topology/Stiefel Manifold.md",
+    "orthogona.md",
+    "Algebraic Topology/Homology/Pontryagin Product.md",
+    "Pontryagin Product 1.md",
     "Algebraic Geometry/Strict Transform.md",
-    "img/strict transform.png",
-    "img/Fibred Product Diagram.png",
-    "img/Cokernel Diagram.png",
-    "img/Blowing Up.png"
+    "Algebraic Topology/Hopf Algebra.md"
   ]
 }
