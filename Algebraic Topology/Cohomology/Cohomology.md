@@ -46,12 +46,7 @@ $$ \dots \rightarrow H^{n-1}(X^{n-1},X^{n-2}) \xrightarrow{d_{n-1}} H^n(X^n,X^{n
 
 We have $H^n(X;G) \cong Ketd_n/Imd_{n-1}$ and this cochain complex is isomorphic to the simplicial complex after applying $Hom(-,G)$.
 
-### Mayer-Vietoris Sequences
-
-In the absolute case we have the sequence 
-
-$$ \dots H^n(X;G) \xrightarrow{\psi} H^n(A;G) H^n(A;G)\oplus H^n(B;G) \xrightarrow{\Phi} H^n(A\cap B;G)\rightarrow H^{n+1}(X;G)\rightarrow \dots $$ 
-And in the relative case we have 
-
-$$ \dots H^n(X,Y;G) \rightarrow H^n(A,C;G) \oplus H^n(B,D;G) \rightarrow H^n(A\cap B,C\cap D; G) \rightarrow \dots $$ 
+If $X$ is the union of an increasing sequence of subcomplexes $X_i$ and if $G$ is either $\mathbb{Q}$ or $\mathbb{Z}_p$ for some prime $p$, then $\lambda : H^n(X;G)\rightarrow \underleftarrow{\lim} H^n(X_i;G)$ is an isomorphism for all $n$ ([[Inverse Limit]]), where $\lambda$ is the natural map sending an element to its sequence of images in $H^n(X_i;G)$ .
+More generally, for any refuced or unreduced cohomology theory $h^*$ we have an exact sequence 
+$$ 0 \rightarrow \underleftarrow{\lim}^1 h^{n-1}(X_i) \rightarrow h^n(X) \xrightarrow{\lambda} \underleftarrow{\lim}h^n(X_i) \rightarrow 0$$
 

@@ -14,3 +14,13 @@ More generally, this sequence also exists, if $X=A\cup B$ s.t. $A$ and $B$ are d
 Given a pair of spaces $(X,Y) = (A\cup B,C\cup D)$ s.t. $C\subseteq A$, $D\subseteq B$, $X=intA\cup intB$ and $Y=int C\cup int D$ we get the *relative Mayer Vietoris Sequence*
 
 $$ \dots \rightarrow H_n(A\cap B, C\cap D)\xrightarrow{\Phi} H_n(A,C)\oplus H_n(B,D) \xrightarrow{\Psi} H_n(X,Y)\xrightarrow{\partial}\dots$$
+
+### [[Cohomology]]
+
+For cohomology we have the absolute sequence
+
+$$ \dots H^n(X;G) \xrightarrow{\psi} H^n(A;G) H^n(A;G)\oplus H^n(B;G) \xrightarrow{\Phi} H^n(A\cap B;G)\rightarrow H^{n+1}(X;G)\rightarrow \dots $$ 
+And the relative sequence
+
+$$ \dots H^n(X,Y;G) \rightarrow H^n(A,C;G) \oplus H^n(B,D;G) \rightarrow H^n(A\cap B,C\cap D; G) \rightarrow \dots $$ 
+

@@ -22,3 +22,7 @@ Given a chain map $f:C_n\rightarrow D_n$ ([[Chain Complexes#Chain maps]]) , the 
 
 1. $(fg)_* = f_*g_*$ 
 2. $\mathbb{1}_* = \mathbb{1}$ 
+
+### Direct Limit 
+
+For any reduced or unreduced homology theory $h$, the natural maps $\underrightarrow{\lim}h_n(X_i)\rightarrow h_n(X)$ ([[Direct Limit]]) are isomorphisms, where $X$ is a CW comples ([[Cell Complexes]]) that is the union of an incresing sequence of subcomplexes $X_i$
