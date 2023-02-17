@@ -1,0 +1,4 @@
+
+Let $Y$ be a nonsignular ([[Singularities]]) subvariety ([[Variety]]) with [[Sheaf of Ideals]] $\mathcal{I}$ of a nonsingular variety $X$ over a [[Field]] $k$. Then $\mathcal{I}/\mathcal{I}^2$ is called the *conormal sheaf* of $Y$ in $X$. Its dual $\mathcal{N}_{Y/X} = \mathcal{Hom}_{\mathcal{O}_Y}(\mathcal{I}/\mathcal{I}^2,\mathcal{O}_Y)$ is called the *normal sheaf* of $Y$ in $X$.
+
+If $codim(Y,X)=r$, $\omega_Y \cong \omega_X \otimes \bigwedge^r \mathcal{N}_{Y/X}$ ([[Canonical Sheaf]]). If $r=1$, we can consider $Y$ a divisor ([[Weil Divisor]], [[Cartier Divisor]]) with associated invertible sheaf ([[Free Scheaf of Modules]]) $\mathcal{L}$, then $\omega_Y \cong \omega_X \otimes \mathcal{L} \otimes \mathcal{O}_Y$ 

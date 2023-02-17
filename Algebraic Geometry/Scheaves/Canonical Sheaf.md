@@ -1,0 +1,2 @@
+
+Let $X$ be a nonsingular ([[Singularities]]) [[Variety]] over a [[Field]] $k$. Then the *canonical sheaf* ([[Sheaf]]) of $X$ is $\omega_X = \bigwedge^n \Omega_{X/k}$ ([[Sheaf of relative differentials]],[[Tensor Operations on Sheaves]]) where $n=dim(X)$. 

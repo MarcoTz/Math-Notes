@@ -1,0 +1,3 @@
+
+Let $X$ be a nonsingular [[Singularities]] closed subvariety ([[Variety]]) of $\mathbb{P}^n_k$ ([[Projective Space]]), where $k$ is an algebraically closed [[Field]]. Then there exists a hyperplane $H\subseteq \mathbb{P}^n_k$ not containing $X$ s.t. $H\cap X$ is regular at every point.  Furthermore, the set of hyperplanes with this property forms an open dense subset of the complete linear system ([[Linear Systems]]) $|H|$ considered as a projective space.
+![[Serres Theorem.png]]

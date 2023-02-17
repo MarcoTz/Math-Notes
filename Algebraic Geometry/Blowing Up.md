@@ -10,6 +10,11 @@ If $X$ is a [[Variety]] ([[Schemes and Varieties]]) over an algebraically closed
 * $\pi$ is birational, proper and surjective ([[Birational Map]],[[Proper Morphism]])
 * if $X$ is (quasi-)projective ([[Projective Scheme]]) then so is $\tilde{X}$ and $\pi$ is a [[Projective Morphism]]
 
+Let $X$ be a nonsingular ([[Singularities]]) variety over a field $k$ the $Y\subseteq X$ a nonsingular closed subvariety with ideal sheaf $\mathcal{I}$. Let $\pi:\tilde{X}\rightarrow X$ be the blowing up of $\mathcal{I}$ and $Y^{\prime}\subseteq \tilde{X}$ the subscheme defined by the [[Inverse Image Ideal Sheaf]] $\mathcal{I}^{\prime} = \pi^{-1}\mathcal{I}\cdot \mathcal{O}_{\tilde{X}}$. Then
+* $\tilde{X}$ is also nonsingular
+* $Y^{\prime}$ with the induced projection map $\pi:Y^{\prime} \rightarrow Y$ is isomorphic to $\mathbb{P}(\mathcal{I}/\mathcal{I}^2)$ on the projective space bundle ([[Projective Sheaf Bundle]]) associated to the (locally free) sheaf $\mathcal{I}/\mathcal{I}^2$ on $Y$
+* under this isomorphism, the normal sheaf ([[Normal and Conormal Sheaf]]) $\mathcal{N}_{Y^{\prime}/\tilde{X}}$ corresponds to $\mathcal{O}_{\mathbb{P}(\mathcal{I}/\mathcal{I}^2)}(-1)$  
+
 ### Universal Property of blowing up
 
 Let $X$ be a noetherian scheme, $\mathcal{I}$ a coherent sheaf of ideals and $\pi:\tilde{X}\rightarrow X$ the blowing up of $X$ wrt $\mathcal{I}$. Then for any morphism $f:Z\rightarrow X$ s.t. $f^{-1}\mathcal{I}\cdot \mathcal{O}_Z$ is an invertible sheaf of ideals on $Z$, there exists a unique morphism $g:Z\rightarrow \tilde{X}$ s.t. the following diagram commutes ([[Diagram]])

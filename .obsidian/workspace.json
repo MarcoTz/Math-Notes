@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "69eff32591799570",
+        "id": "0867b8f93498dfd2",
         "type": "tabs",
         "children": [
           {
-            "id": "b8458ee2f0dbb000",
+            "id": "a13beae2e343944c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/Cohomology/Bockstein Homomorphism.md",
+                "file": "Algebra/Ring Theory/Normal Ring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "38fd1da8c8d4914c",
+            "id": "94057e5d6900edb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/Cohomology/Bockstein Homomorphism.md",
+                "file": "Algebraic Geometry/Varieties/Bertini's Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transpose",
+                "query": "blow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Topology/Cohomology/Bockstein Homomorphism.md",
+                "file": "Algebraic Geometry/Varieties/Bertini's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Topology/Cohomology/Bockstein Homomorphism.md",
+                "file": "Algebraic Geometry/Varieties/Bertini's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Topology/Cohomology/Bockstein Homomorphism.md"
+                "file": "Algebraic Geometry/Varieties/Bertini's Theorem.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "0465211a1e2a7cfa",
   "lastOpenFiles": [
-    "img/Bockstein Diagram.png",
-    "Pasted image 20230131220758.png",
-    "Algebraic Topology/Cohomology/Bockstein Cohomology.md",
-    "Algebraic Topology/Cohomology/Bockstein Homomorphism.md",
-    "Linear Algebra/Special Orthogonal Group.md",
-    "Metric Spaces/Isometry.md",
-    "Topology/Topological Group.md",
-    "Linear Algebra/Orthogonal Group.md",
-    "Topology/Stiefel Manifold.md",
-    "orthogona.md"
+    "Algebra/Ring Theory/Derivation.md",
+    "Algebra/Ring Theory/Exact sequences of Relative Differentials.md",
+    "Algebraic Geometry/Varieties/Geometric Genus.md",
+    "Algebraic Geometry/Scheaves/Local Complete Intersection.md",
+    "Algebraic Geometry/Scheaves/Normal and Conormal Sheaf.md",
+    "Algebra/Ring Theory/Normal Ring.md",
+    "Algebra/Ring Theory/Regular Sequence.md",
+    "Algebra/Ring Theory/Relative Differential Forms.md",
+    "Algebra/Field Theory/Separably generated.md",
+    "Algebraic Geometry/Scheaves/Sheaf of relative differentials.md"
   ]
 }

@@ -1,0 +1,2 @@
+
+Let $X$ be a nonsingular ([[Singularities]]) [[Variety]] over a [[Field]] $k$. Then the *tangent sheaf* of $X$ is $\mathcal{T}_X = \mathcal{Hom}_{\mathcal{O}_X}(\Omega_{X/k},\mathcal{O}_X)$ ([[Sheaf of relative differentials]]). It is a locally free sheaf ([[Free Scheaf of Modules]]) of rank $n=dim(X)$

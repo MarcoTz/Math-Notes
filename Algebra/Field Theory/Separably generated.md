@@ -1,0 +1,2 @@
+
+A [[Field Extension]] $K/k$ is called *separably generated* if there exists a transcendence base ([[Transcendence Degree]]) $\{x_{\lambda}\}$ for $K/k$ s.t. $K$ is a separable ([[Separability]]) [[Algebraic Field extension]] of $k(\{x_{\lambda}\})$ 
