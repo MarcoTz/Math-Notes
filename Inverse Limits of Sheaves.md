@@ -1,0 +1,2 @@
+Let $X$ be a [[Topological Space]] and $\mathfrak{C}$ the [[Category]] of sheaves ([[Sheaf]]) of [[Abelian Group]]s on $X$. Then [[Inverse Limit]]s exist in $\mathfrak{C}$.
+Furthermore, for an inverse system of sheaves of abelian groups $(\mathcal{F}_n)$ on $X$ with $\mathcal{F} = \underleftarrow{\lim} \mathcal{F}_n$, then for any open set $U$, $\Gamma(U,\mathcal{F}) = \underleftarrow{\lim}\Gamma(U,\mathcal{F}_n)$ 

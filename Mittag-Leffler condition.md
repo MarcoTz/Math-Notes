@@ -1,0 +1,5 @@
+An inverse system ([[Inverse Limit]]) $(A_n,\varphi_{n^{\prime}n})$ satisfies the *Mittag-Leffler condition* (ML) if for each $n$, the decreasing family $(\varphi_{n^{\prime}n}(A_{n^{\prime}}))$ of subgroups of $A_n$ is stationary. Or equivalently, if for each $n$ there is some $n_0\geq n$ s.t. for $n^{\prime},n^{\prime\prime}\geq n_0$, $\varphi_{n^{\prime}n}(A_n)= \varphi_{n^{\prime\prime}n}(A_{n^{\prime\prime}})$.
+
+If $0\rightarrow (A_n) \xrightarrow{f} (B_n) \xrightarrow{g} (C_n) \rightarrow 0$ is a short [[Exact Sequence]] of inverse systems ([[Homomorphisms of Inverse Systems]]), then 
+* if $(B_n)$ satisfies ML, so does $(C_n)$
+* if $(A_n)$ satisfies ML, the sequence $0\rightarrow \underleftarrow{\lim} A_n \rightarrow \underrightarrow{\lim}B_n \rightarrow \underrightarrow{\lim} C_n \rightarrow 0$ is exact.

@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0867b8f93498dfd2",
+        "id": "08d2ec0ae95923c4",
         "type": "tabs",
         "children": [
           {
-            "id": "58a6fb988d5fc5c6",
+            "id": "401f3a9b2385daf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/Ext.md",
+                "file": "Noetherian Formal Scheme.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80f9ab2f13a35840",
+            "id": "953a8503b2eb6373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/Transfer Homomorphism.md",
+                "file": "Ideal of Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ext",
+                "query": "reduced scheme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +77,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e0b17f1b36adc931",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Topology/Transfer Homomorphism.md",
+                "file": "Noetherian Formal Scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Topology/Transfer Homomorphism.md",
+                "file": "Noetherian Formal Scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Topology/Transfer Homomorphism.md"
+                "file": "Noetherian Formal Scheme.md"
               }
             }
           }
@@ -159,10 +160,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80f9ab2f13a35840",
+  "active": "401f3a9b2385daf8",
   "lastOpenFiles": [
-    "Graded Polynomial Rings as Cup Product Rings.md",
+    "Ideal of Definition.md",
+    "Algebraic Geometry/Schemes/Properties of Schemes.md",
+    "Noetherian Formal Scheme.md",
+    "img/Inverse system homomorphism.png",
+    "Inverse Limits of Sheaves.md",
+    "Completion of a Ring.md",
+    "Completion of a Scheme.md",
+    "Completion of a Sheaf.md",
+    "Mittag-Leffler condition.md",
+    "Homomorphisms of Inverse Systems.md",
+    "Category Theory/Inverse Limit.md",
     "Algebraic Topology/Transfer Homomorphism.md",
+    "Graded Polynomial Rings as Cup Product Rings.md",
     "Algebraic Topology/Ext.md",
     "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md",
     "Algebraic Geometry/Schemes/Tensor Operations on Sheaves.md",
