@@ -1,0 +1,3 @@
+Let $F:\mathfrak{U}\rightarrow \mathfrak{B}$ be a covariant [[Functor]] of abelian categories ([[Abelian Category]]) that is left exact ([[Exact Functor]]). Then an object $J$ of $\mathfrak{U}$ is called *acyclic* for $F$ if $R^iF(J) = 0$ for all $i>0$ ([[Right Derived Functor]])
+
+If there is an [[Exact Sequence]] $0\rightarrow A \rightarrow J^0 \rightarrow J^1 \rightarrow \dots$ where each $J^i$ is acycic for $F$ (then $F$ is called an *acyclic resolution of $A$*). Then for each $i\geq 0$ there is a natural isomorphism $R^iF(A) \cong h^i(F(J^{\prime})$ ([[Cohomology Object]]).

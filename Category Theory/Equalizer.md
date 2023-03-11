@@ -1,0 +1,2 @@
+Let $C$ be a category with objects $X,Y$ and $f,g\in Hom(X,Y)$. Then an *equalizer* of $f$ and $g$ is consists of an object $E$ and a morphism $eq \in Hom(E,X)$ s.t. $f\circ eq = g \circ eq$ s.t. for any object $O$ and morphism $m\in Hom(O,X)$ with $f\circ m = g \circ m$ there exists a unique morphism $u\in Hom(O,E)$ s.t. $eq \circ u = m$ 
+![[equalizer_diagram.png]]

@@ -1,0 +1,1 @@
+Let $C$ be a [[Category]], $A$ an object of $C$ and $u:S\rightarrow A$, $v:\rightarrow A$ two morphisms. Then we say $u$ and $v$ are equivalent, written $u\equiv v$ if there exists an isomorphism $\Phi : S \rightarrow T$ with $u = v \circ \Phi$. This defines an equivalence [[Relation]] on monomorphisms with codomain $A$, and we call the equivalence classes *subobjects* of $A$.

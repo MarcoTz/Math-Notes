@@ -1,0 +1,2 @@
+Let $F:\mathfrak{U}\rightarrow \mathfrak{B}$ be an [[Additive Functor]] between abelian categories ([[Abelian Category]]). Then $F$ is called *effaceable* if for each object $A$ of $\mathfrak{U}$, there is a monomorphism ([[Monomorphisms and Epimorphisms]]) $u:A\rightarrow M$ for some $M$ with $F(u) = 0$.
+It is *coeffaceable* if for each object $A$ there exists an epimorphism $u:P\rightarrow A$ s.t. $F(u) = 0$

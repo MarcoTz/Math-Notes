@@ -1,0 +1,2 @@
+Let $F:\mathfrak{U}\rightarrow \mathfrak{B}$ be a covariant [[Functor]] of abelian categories ([[Abelian Category]]). $F$ is called *additive* if for any two objects $A,A^{\prime}$ in $\mathfrak{U}$, the induced map $Hom(A,A^{\prime}) \rightarrow Hom(FA,FA^{\prime})$ is a homomorphism of [[Abelian Group]]s. 
+If $F$ is contravariant the analogous definition is used.

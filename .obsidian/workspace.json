@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08d2ec0ae95923c4",
+        "id": "c58a30f5acc978a0",
         "type": "tabs",
         "children": [
           {
-            "id": "401f3a9b2385daf8",
+            "id": "f9a43ae40ce308dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noetherian Formal Scheme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "953a8503b2eb6373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideal of Definition.md",
+                "file": "Delta Functor.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reduced scheme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Noetherian Formal Scheme.md",
+                "file": "Delta Functor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Noetherian Formal Scheme.md",
+                "file": "Delta Functor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Noetherian Formal Scheme.md"
+                "file": "Delta Functor.md"
               }
             }
           }
@@ -160,28 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "401f3a9b2385daf8",
+  "active": "f9a43ae40ce308dc",
   "lastOpenFiles": [
-    "Ideal of Definition.md",
-    "Algebraic Geometry/Schemes/Properties of Schemes.md",
-    "Noetherian Formal Scheme.md",
-    "img/Inverse system homomorphism.png",
-    "Inverse Limits of Sheaves.md",
-    "Completion of a Ring.md",
-    "Completion of a Scheme.md",
-    "Completion of a Sheaf.md",
-    "Mittag-Leffler condition.md",
-    "Homomorphisms of Inverse Systems.md",
-    "Category Theory/Inverse Limit.md",
-    "Algebraic Topology/Transfer Homomorphism.md",
-    "Graded Polynomial Rings as Cup Product Rings.md",
-    "Algebraic Topology/Ext.md",
-    "Algebraic Topology/Cohomology/Universal Coefficient Theorem.md",
-    "Algebraic Geometry/Schemes/Tensor Operations on Sheaves.md",
-    "Convex Geometry/Convexity.md",
-    "Topology/Attaching Spaces.md",
-    "Algebraic Topology/Cohomology/Cohomology.md",
-    "Algebraic Topology/Cohomology/Bockstein Homomorphism.md",
-    "Algebraic Topology/Cohomology/Bockstein Cohomology.md"
+    "Effaceable Functor.md",
+    "delta functor diagram.png",
+    "Delta Functor.md",
+    "Acyclic Object.md",
+    "Right Derived Functor.md",
+    "RIght derived functor diagram.png",
+    "Injective Resolution.md",
+    "Injective Object.md",
+    "Subobject.md",
+    "Exact Functor.md",
+    "Additive Functor.md",
+    "Untitled",
+    "Cohomology Object.md",
+    "Complex.md",
+    "Image.md",
+    "img/equalizer_diagram.png",
+    "Category Theory/Monomorphisms and Epimorphisms.md",
+    "Notations.md",
+    "Homological Algebra",
+    "Category Theory/Abelian Category.md",
+    "Category Theory/Kernels and Cokernels.md",
+    "Category Theory/Opposite category.md",
+    "Category Theory/Equalizer.md",
+    "Category Theory/Zero Morphism.md",
+    "Topology/Bundles of Groups.md",
+    "Algebraic Topology/Homology/Homology with local coefficients.md",
+    "Algebraic Geometry/Schemes/Noetherian Formal Scheme.md",
+    "Untitled.canvas",
+    "Algebra/Mittag-Leffler condition.md",
+    "Algebra/Homomorphisms of Inverse Systems.md",
+    "Algebraic Geometry/Schemes/Completion of a Scheme.md",
+    "img/Inverse system homomorphism.png"
   ]
 }

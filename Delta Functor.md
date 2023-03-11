@@ -1,0 +1,10 @@
+Let $\mathfrak{U}$ and $\mathfrak{B}$ be abelian categories ([[Abelian Category]]). A  (covariant) *$\delta$-functor* from $\mathfrak{U}$ to $\mathfrak{B}$ is a collection of [[Functor]]s $T = (T^i)_{i\geq 0}$ with a morphism $\delta^i:T^i(A^{\prime\prime}) \rightarrow T^{i+1}(A^{\prime})$ for each short [[Exact Sequence]] $0\rightarrow A^{\prime} \rightarrow A \rightarrow A^{\prime\prime} \rightarrow 0$ and each $i\geq 0$ s.t. 
+* for each such short exact sequence there is a long exact sequence 
+  $$ 0 \rightarrow T^0(A^{\prime}) \rightarrow T^0(A) \rightarrow T^0(A^{\prime\prime}) \xrightarrow{\delta^0} T^1(A) \rightarrow \dots \rightarrow T^i(A) \rightarrow T^i(A^{\prime\prime}) \xrightarrow{\delta^i} T^{i+1}(A^{\prime}) \rightarrow T^{i+1}(A) \rightarrow \dots $$ 
+  * for ecah morphism of short exact sequences $0\rightarrow A^{\prime} \rightarrow A \rightarrow A^{\prime\prime} \rightarrow 0$ and $0\rightarrow B^{\prime} \rightarrow B \rightarrow B^{\prime\prime} \rightarrow 0$ , the $\delta$ give a commutative diagram.
+    ![[delta functor diagram.png]]
+
+A $\delta$-functor $T = (T^i):\mathfrak{U} \rightarrow \mathfrak{B}$ is called *universal* if for any other $\delta$-functor $T^{\prime} = (T^{\prime i}):\mathfrak{U} \rightarrow \mathfrak{B}$ and any morphism of functors $f^0:T^0\rightarrow T^{\prime 0}$, there exists a unique sequence of morphisms $f^i:T^i\rightarrow T^{\prime i}$ for each $i\geq 0$ starting with $f^0$ which commute with the $\delta^i$ for each chort exact sequence.
+
+A $\delta$-functor $T$ that is effaceable for each $i\geq 0$ ([[Effaceable Functor]]), is always universal.
+This means for any $\mathfrak{U}$ with enough injectives ([[Injective Object]]), and any left exact functor $F:\mathfrak{U}\rightarrow \mathfrak{B}, the [[Right Derived Functor]]s $(R^iF)_{i\geq 0}$ form a universal $\delta$-functor with $F\cong R^0F$. Conversely, if $T = (T^i)_{i\geq 0}$ is any universal $\delta$-functor, $T^0$ is left exact and the $T^i$ are isomorphic to $R^iT^0$ for each $i\geq 0$.

@@ -1,0 +1,1 @@
+Let $C$ be a [[Category]]. Then the *opposite* or *dual* category $C^{op}$ of $C$ is the category with the same objects as $C$ and opposite morphisms, i.e. for each morphism $f\in Hom_C(X,Y)$ we have $f \in Hom_{C^{op}}(Y,X)$, so all arrows are reversed.

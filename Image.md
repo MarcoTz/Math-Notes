@@ -1,0 +1,3 @@
+Let $C$ be a [[Category]] and $f\in Hom(X,Y)$ a morphism. Then the *image* of $f$ is a monomorphism ([[Monomorphisms and Epimorphisms]]) $m\in Hom(I,Y)$ satisfying the following 
+* There is a morphism $e\in Hom(X,I)$ with $f=me$
+* For any object $I^{\prime}$ with morphism $e^{\prime}\in Hom(X,I^{\prime})$ and monomorphism $m^{\prime} \in Hom(I^{\prime},Y)$ with $f=m^{\prime}e^{\prime}$ there exists a unique morphism $v\in Hom(I,I^{\prime})$ 

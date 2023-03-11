@@ -1,0 +1,2 @@
+Let $C$ be a [[Category]]  with zero morphisms ([[Zero Morphism]]). Then if $f\in Hom(X,Y)$ is a morphism in $C$, the *kernel* of $f$ is an [[Equalizer]] of $f$ and the zero morphism $X\rightarrow Y$, in other words $ker(f) = eq(f,0_{XY})$.
+The *cokernel* of $f$ is the kernel of $f$ in the [[Opposite category]] of $C$.
