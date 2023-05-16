@@ -1,0 +1,1 @@
+Let $A$ be a [[Noetherian Ring]], $M\subseteq N$ be finitely generated $A$-[[Module]]s and $a$ an [[Ideal]] of $A$, Then the $a$-adic topology on $M$ ([[Completion of a Ring]]) is induced by the $a$-adic topology on $N$, i.e. for $n>0$ there is some $n^{\prime} \geq n$ s.t. $a^nM \supseteq M \cap a^nN$ 
