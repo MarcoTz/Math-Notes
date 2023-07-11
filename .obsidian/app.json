@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "vimMode": true,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "promptDelete": false
 }

@@ -1,0 +1,3 @@
+An *$\Omega$-spectrum* is a sequence of CW complexes ([[Cell Complexes]]) $K_1,K_2,\dots$ with weak homotopy equivalences ([[CW Approximation]]) $K_n\rightarrow \Omega K_{n+1}$ ([[Loop Space]]).
+
+If $\{K_n\}$ is a $\Omega$-spectrum, the functors $X\mapsto h^n(X)=\langle X, K_n\rangle$, $n\in \mathbb{Z}$ define a reduced cohomology theory ([[Cohomology]]) in the [[Category]] of basepointed CW copmlexes and basepoint-preserving maps.

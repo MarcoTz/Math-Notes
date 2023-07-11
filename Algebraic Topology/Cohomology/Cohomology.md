@@ -28,11 +28,6 @@ The duals of induced chain maps $f_{\#}$ by $f:X\rightarrow Y$ are the induced c
 We have $(fg)^*=g^*f^*$ and $\mathbb{1}^*=\mathbb{1}$ 
 
 If $f\simeq g:(X,A)\rightarrow (Y,B)$ then $f^*=g^*:H^n(Y,B)\rightarrow H^n(X,A)$  
-
-### Excision
-
-Let $X$ be a space with subspaces $Z\subseteq A\subseteq X$ s.t. $clZ\subseteq intA$. Then the inclusion $i:(X\setminus Z,A\setminus Z)\xhookrightarrow{} (X,A)$ induces isomorphisms $i^*:H^n(X,A;G)\rightarrow H^n(X\setminus Z,A\setminus Z)$
-
 ### Simplicial Cohomology 
 
 The simplicial chain groups $\Delta_n(X,A)$ of  [[Delta-Complex]] $X$ with subcomplex $A$ dualize to cochain groups $\Delta^n(X,A)$ which then define the simplicial cohomology groups $H^n_{\Delta}(X,A;G)$. 
@@ -49,4 +44,3 @@ We have $H^n(X;G) \cong Ketd_n/Imd_{n-1}$ and this cochain complex is isomorphic
 If $X$ is the union of an increasing sequence of subcomplexes $X_i$ and if $G$ is either $\mathbb{Q}$ or $\mathbb{Z}_p$ for some prime $p$, then $\lambda : H^n(X;G)\rightarrow \underleftarrow{\lim} H^n(X_i;G)$ is an isomorphism for all $n$ ([[Inverse Limit]]), where $\lambda$ is the natural map sending an element to its sequence of images in $H^n(X_i;G)$ .
 More generally, for any refuced or unreduced cohomology theory $h^*$ we have an exact sequence 
 $$ 0 \rightarrow \underleftarrow{\lim}^1 h^{n-1}(X_i) \rightarrow h^n(X) \xrightarrow{\lambda} \underleftarrow{\lim}h^n(X_i) \rightarrow 0$$
-

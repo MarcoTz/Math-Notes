@@ -19,3 +19,8 @@ If $X$ and $Y$ are cell complexes, then the [[Product Space]] $X\times Y$ is als
 If $(X,A)$ is a CW pair, then the quotient space $X/A$ is also a cell complex.
 
 From this, we can see that the [[Suspension]],[[Join]],[[Cone]],[[Wegde Sum]], and [[Smash Product]] of CW pairs are also CW pairs
+
+### Homology and Cohomology
+
+If $h^*$ is an unreduced cohomology theory ([[Cohomology]]) on the category of CW pairs with $h^n($point$)=0$ for $n\neq 0$, then there are natural isomorphisms $h^n(X,A) \cong H^n(X,A;h^0($point$))$ for all CW pairs $(X,A)$ and all $n$.
+The same is true for [[Homology]].
