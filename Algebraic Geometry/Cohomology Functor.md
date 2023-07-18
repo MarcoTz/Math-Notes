@@ -17,3 +17,13 @@ Let $X$ be a noetherian scheme, then the following are equivalent
 * $X$ is affine 
 * $H^i(X,\mathcal{F}) = 0$ for all quasi-coherent scheaves $\mathcal{F}$ and $i>0$
 * $H^1(X,\mathcal{I}) = 0$ for all coherehnt sheaves of ideals $\mathcal{I}$ ([[Sheaf of Ideals]])
+
+For a [[Noetherian Ring]] $A$ and $X=\mathbb{P}^r_A$ with $r\geq 1$ then 
+* The natural map $S\rightarrow \Gamma_*(\mathcal{O}_X) = \bigoplus_{n\in \mathbb{Z}} H^0(X,\mathcal{O}_X(n))$ is an isomorphism.
+* $H^i(X,\mathcal{O}_X(n)) = 0$ for $0<i<r$ and $n\in \mathbb{Z}$
+* $H^r(X,\mathcal{O}_X(-r-1) \cong A$
+* the natural map $H^0(X,\mathcal{O}_X(n)) \times H^r(X,\mathcal{O}_X(-n-r-1)) \rightarrow H^r(X,\mathcal{O}_X(-r-1)) \cong A$ is a perfect pairing ([[Pairing]]) of finitely generated free $A$-modules for each $n\in \mathbb{Z}$ 
+
+If $X$ is a [[Projective Scheme]] over a noetherian ring $A$ s.t. $\mathcal{O}_X(1)$ ([[Twisting Sheaf]]) is a very ample ([[Ample Sheaves]]) invertible ([[Free Scheaf of Modules]]) on $X$ over $Spec A$ ([[Scheme over a Scheme]]). Then
+* for each $i\geq 0$, $H^i(X,\mathcal{F})$ is a finitely generated $A$-module
+* there is some $n_0$ s.t. for each $i>0$ and $n\geq n_0$, $H^i(X,\mathcal{F}(n)) = 0$ 

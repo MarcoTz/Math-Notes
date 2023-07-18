@@ -1,0 +1,3 @@
+Let $f:X\rightarrow Y$ be a [[Projective Morphism]] of [[Noetherian Scheme]]s, and $\mathcal{F}$ a coherent sheaf on $X$ ([[Coherent Sheaf of modules]]), flat over $Y$ ([[Flat Morphism]]). Then the function $h^i(y,\mathcal{F}) = dim_{k(y)} H^i(X_y,\mathcal{F}_y)$ is upper semicontinuous  ([[Semicontinuity]]).
+
+As a corollary, if $Y$ is also integral ([[Properties of Schemes]]) and for some $i$ we have $h^i(y,\mathcal{F})$ is constant on $Y$, then $R^if_*(\mathcal{F})$ ([[Higher Direct Image Functors]]) is free ([[Free Scheaf of Modules]]) on $Y$ and the natural map $R^if_*(\mathcal{F}) \otimes k(y) \rightarrow H^i(X_y,\mathcal{F}_y)$ is an isomorphism for all $y$ 

@@ -6,3 +6,7 @@ For an invertible sheaf $\mathcal{L}$, the following are equivalent
 * $\mathcal{L}^m$ is ample for some $m>0$ 
 
 If $X$ is of finite type over a [[Noetherian Ring]] $A$ ([[Finite Morphisms of Schemes]]), this is equivalent to $\mathcal{L}^m$ to be very ampe ([[Very Ample Scheme]]) for some $m>0$. 
+
+For $A$ [[Noetherian Ring]] and $X$ proper scheme over $Spec A$ ([[Proper Morphism]],[[Scheme over a Scheme]]), let $\mathcal{L}$ be an invertivle sheaf on $X$ ([[Free Scheaf of Modules]]). Then the following are equivalent 
+* $\mathcal{L}$ is ample
+* for each coherent sheaf ([[Coherent Sheaf of modules]]) $\mathcal{F}$ on $X$, there is some $n_0$ s.t. for each $i>0$ and $n\geq n_0$, $H^i(X,\mathcal{F}\otimes \mathcal{L}^n) = 0$ 

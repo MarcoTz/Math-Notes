@@ -4,35 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "14577d80d692433b",
+        "id": "f8fe9a0b27920c63",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1abe70cbb53e70",
+            "id": "d1f4ff9d8a61dcfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d854dd0e0f1e1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/Postnikov Tower.md",
+                "file": "The Riemann-Roch Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9552b21beea8d6a",
+            "id": "5807b7e1a67ec873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/Moore-Postnikov Tower.md",
+                "file": "Ruled Surface.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mapping cy",
+                "query": "curve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e0b17f1b36adc931",
@@ -106,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Topology/Moore-Postnikov Tower.md",
+                "file": "Ruled Surface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Topology/Moore-Postnikov Tower.md",
+                "file": "Ruled Surface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Topology/Moore-Postnikov Tower.md"
+                "file": "Ruled Surface.md"
               }
             }
           }
@@ -167,41 +176,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9552b21beea8d6a",
+  "active": "5807b7e1a67ec873",
   "lastOpenFiles": [
-    "Algebraic Topology/Postnikov Tower.md",
+    "The Riemann-Roch Theorem.md",
+    "Ruled Surface.md",
+    "Weierstrass elliptic function.md",
+    "Elliptic Function.md",
+    "Holomorphic Function.md",
+    "Partial Derivative.md",
+    "Differentiable Function.md",
+    "Analytic Function.md",
+    "Meromorphic Function.md",
+    "Jacobian Variety.md",
+    "Group Scheme.md",
+    "Genus of a Curve.md",
+    "j-Invariant.md",
+    "Algebraic Geometry/Curves/Degree of a Morphism of Curves.md",
+    "Algebraic Geometry/Curves/Curve (Scheme).md",
+    "Ramification Divisor.md",
+    "Ramification.md",
+    "Algebraic Geometry/Scheaves/Canonical Sheaf.md",
+    "Algebraic Geometry/Scheaves/Sheaf of relative differentials.md",
+    "Algebra/Field Theory/Degree of a Field Extension.md",
+    "Algebraic Geometry/Cohomology Functor.md",
+    "Algebraic Geometry/Divisors/Weil Divisor.md",
+    "Algebraic Geometry/Divisors/Cartier Divisor.md",
+    "Arithmetic Genus.md",
+    "Algebraic Geometry/Varieties/Geometric Genus.md",
+    "Hilbert Polynomial.md",
     "img/Pasted image 20230710231543.png",
-    "Algebraic Topology/Moore-Postnikov Tower.md",
     "img/principal fibration diagram.png",
     "Pasted image 20230710230920.png",
     "img/Postnikov Tower diagram.png",
-    "Algebraic Topology/Fibration.md",
     "img/Pullback fibration diagram.png",
-    "Algebraic Topology/Cell Complexes.md",
-    "Algebraic Topology/Cohomology/Cohomology.md",
-    "Category Theory/Abelian Category.md",
-    "Algebraic Topology/Omega Spectrum.md",
-    "Algebraic Topology/Loop Space.md",
-    "Algebraic Topology/CW Approximation.md",
-    "Algebraic Topology/Eilenberg-MacLane Space.md",
-    "Algebraic Topology/Stable i-stem.md",
     "img/stable i stem.png",
     "img/bundle diagram.png",
-    "Algebraic Topology/Stable Homotopy Groups.md",
-    "Algebraic Topology/Fiber Bundle.md",
-    "Algebraic Topology/Homotopy Lifting Property.md",
-    "Algebraic Topology/Hopf Bundle.md",
-    "Numbers/Quaternions.md",
-    "Algebraic Topology/Plus Construction.md",
-    "Algebraic Topology/Hurewicz Theorem.md",
-    "Algebraic Topology/Excision.md",
-    "Algebraic Topology/Homology/Relative Homology.md",
-    "Algebraic Topology/Cellular Approximation Theorem.md",
-    "Algebraic Topology/Whitehead's Theorem.md",
-    "Algebraic Topology/Cap Product.md",
     "img/CW Model Diagram.png",
-    "Algebraic Topology/CW Model.md",
-    "Algebraic Topology/Homotopy.md",
     "img/RIght derived functor diagram.png",
     "img/delta functor diagram.png",
     "Untitled",
