@@ -4,43 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "f8fe9a0b27920c63",
+        "id": "a3382d5dd4bf6f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "d1f4ff9d8a61dcfd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d854dd0e0f1e1d9",
+            "id": "03c39575a7c74f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Riemann-Roch Theorem.md",
+                "file": "Algebraic Geometry/Schemes/Zariski's Main Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5807b7e1a67ec873",
+            "id": "7074ad4c8d78b862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruled Surface.md",
+                "file": "Analysis/Weierstrass elliptic function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fb58e9730676023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Weierstrass elliptic function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "821a9c7c11304cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Tensor Product.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e0b17f1b36adc931",
@@ -115,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruled Surface.md",
+                "file": "Algebra/Tensor Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruled Surface.md",
+                "file": "Algebra/Tensor Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruled Surface.md"
+                "file": "Algebra/Tensor Product.md"
               }
             }
           }
@@ -176,34 +191,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5807b7e1a67ec873",
+  "active": "821a9c7c11304cad",
   "lastOpenFiles": [
-    "The Riemann-Roch Theorem.md",
-    "Ruled Surface.md",
-    "Weierstrass elliptic function.md",
-    "Elliptic Function.md",
-    "Holomorphic Function.md",
-    "Partial Derivative.md",
-    "Differentiable Function.md",
-    "Analytic Function.md",
-    "Meromorphic Function.md",
-    "Jacobian Variety.md",
-    "Group Scheme.md",
-    "Genus of a Curve.md",
-    "j-Invariant.md",
-    "Algebraic Geometry/Curves/Degree of a Morphism of Curves.md",
-    "Algebraic Geometry/Curves/Curve (Scheme).md",
-    "Ramification Divisor.md",
-    "Ramification.md",
-    "Algebraic Geometry/Scheaves/Canonical Sheaf.md",
-    "Algebraic Geometry/Scheaves/Sheaf of relative differentials.md",
-    "Algebra/Field Theory/Degree of a Field Extension.md",
-    "Algebraic Geometry/Cohomology Functor.md",
-    "Algebraic Geometry/Divisors/Weil Divisor.md",
-    "Algebraic Geometry/Divisors/Cartier Divisor.md",
-    "Arithmetic Genus.md",
-    "Algebraic Geometry/Varieties/Geometric Genus.md",
-    "Hilbert Polynomial.md",
+    "Algebra/Tensor Operations on Modules.md",
+    "Algebra/Pairing.md",
+    "Category Theory/Mittag-Leffler condition.md",
+    "Algebra/Monoid.md",
+    "Algebra/Homomorphisms of Inverse Systems.md",
+    "Algebra/Krulls Theorem.md",
+    "Algebra/Homomorphism.md",
+    "Algebra/Hilbert Polynomial.md",
+    "Algebra/Flat Module.md",
+    "Algebra/Exact Sequence.md",
+    "Algebra/Eulers Totient Function.md",
+    "Algebraic Geometry/Schemes/Stein Factorization.md",
+    "Topology/Semicontinuity.md",
+    "Analysis/Weierstrass elliptic function.md",
+    "Analysis/Elliptic Function.md",
+    "Algebraic Geometry/Curves/Jacobian Variety.md",
+    "Algebraic Geometry/Curves/j-Invariant.md",
+    "Algebra/Ring Theory/Gradings.md",
+    "Analysis/Meromorphic Function.md",
+    "Untitled",
+    "Algebraic Geometry/Varieties/Kodaira Vanishing Theorem.md",
+    "Algebraic Geometry/Module Cohomology Functors.md",
+    "Notations.md",
+    "Algebraic Geometry/Ruled Surface.md",
+    "Algebraic Geometry/Curves/Residues.md",
+    "Algebraic Geometry/Curves/Ramification.md",
+    "Algebraic Geometry/Serre Duality.md",
+    "Analysis",
     "img/Pasted image 20230710231543.png",
     "img/principal fibration diagram.png",
     "Pasted image 20230710230920.png",
@@ -214,7 +231,6 @@
     "img/CW Model Diagram.png",
     "img/RIght derived functor diagram.png",
     "img/delta functor diagram.png",
-    "Untitled",
     "Homological Algebra",
     "Untitled.canvas"
   ]

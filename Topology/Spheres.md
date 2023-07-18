@@ -42,4 +42,4 @@ We have $deg f = \sum_i degf|_{x_i}$
 
  $H^*(J(S^n);\mathbb{Z})$  consists of  $\mathbb{Z}$ in each dimension that is a multiple of $n$, where $J(S^n)$ is the [[James Reduced Product]] of $S^n$.
  If $n$ is even, the $i$-th power of a generator of $H^n(J(S^n);\mathbb{Z})$ is $i!$ times a generateor of $H^{in}(J(S^n);\mathbb{Z})$ for any $i\geq 1$.
- If $n$ is odd, $H^*(J(S^n);\mathbb{Z}) \cong H^*(S^n;\mathbb{Z})\otimes H^*(J(S^{2n};\mathbb{Z}))$ as [[Graded Ring]]s ([[Tensor Product]])
+ If $n$ is odd, $H^*(J(S^n);\mathbb{Z}) \cong H^*(S^n;\mathbb{Z})\otimes H^*(J(S^{2n};\mathbb{Z}))$ as [[Gradings]]s ([[Tensor Product]])

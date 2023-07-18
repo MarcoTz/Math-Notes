@@ -54,7 +54,7 @@ If $f\in R[X]$ has $I(f)=1$ with $\varphi(f)$ is irreducible in $S[X]$ and $degf
 
 If $R$ is factorial, $R[X]$ is factorial.
 
-### [[Graded Ring]]
+### [[Gradings]]
 
 If we let $S_d\subseteq R[X_1,\dots,X_n]$ be the set of all linear combinations of monomials with total weight $d$, then $R[X_1,\dots,X_n]$ is a graded ring. 
 For homogeneous polynomials (i.e. ones in $S_d$) we have $f(\lambda a_0,\dots,\lambda a_n) = \lambda^d f(a_0,\dots,a_n)$

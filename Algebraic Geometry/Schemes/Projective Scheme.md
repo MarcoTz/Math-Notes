@@ -1,4 +1,4 @@
-Let $S=\bigoplus_{d\geq 0} S_d$ be a [[Graded Ring]], with the [[Ideal]] $S_+ =  \bigoplus_{d>0}S_d$. 
+Let $S=\bigoplus_{d\geq 0} S_d$ be a [[Gradings]], with the [[Ideal]] $S_+ =  \bigoplus_{d>0}S_d$. 
 Then $ProjS$ is the set of all homogeneous [[Prime Ideal]]s not containing $S_+$.
 For any homogeneous ideal $a$ we define $V(a) = \{p\in ProjS | a \subseteq p\}$. This has the following properties 
 

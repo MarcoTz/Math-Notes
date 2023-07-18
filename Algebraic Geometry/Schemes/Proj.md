@@ -1,4 +1,4 @@
-Let $X$ be a [[Scheme]] and $\mathcal{J}$  be a [[Sheaf]] of graded $\mathcal{O}_X$-algebras ([[Graded Ring]]) satisfying the following 
+Let $X$ be a [[Scheme]] and $\mathcal{J}$  be a [[Sheaf]] of graded $\mathcal{O}_X$-algebras ([[Gradings]]) satisfying the following 
 
  * $X$ is a [[Noetherian Scheme]]
  * $\mathcal{J}$ is a quasi-coherent sheaf of $\mathcal{O}_X$-modules ([[Coherent Sheaf of modules]])

@@ -1,5 +1,5 @@
 
-A graded [[Algebra]] ([[Graded Ring]]) $A=\bigoplus_{n\geq 0} A^n$ over a commutative [[Ring]] satisfying the following axioms is called a Hopf algebra
+A graded [[Algebra]] ([[Gradings]]) $A=\bigoplus_{n\geq 0} A^n$ over a commutative [[Ring]] satisfying the following axioms is called a Hopf algebra
 
 * There is an identity element $1\in A^0$, s.t. $R\rightarrow A^0$ , $r\mapsto r\cdot 1$ is an isomorphism. In this case we say $A$ is *connected*
 * there is a *diagonal* or *coproduct* $\Delta:A\rightarrow A\otimes A$, a homomorphism of graded algebras with $\Delta(\alpha) = \alpha \otimes 1 + 1\otimes \alpha + \sum_i \alpha^{\prime}_i \otimes \alpha_i^{\prime\prime}$ where $|\alpha_i^{\prime}|>0$ and $|\alpha_i^{\prime\prime}|>0$ for all $\alpha$ with $|\alpha|>0$ 
