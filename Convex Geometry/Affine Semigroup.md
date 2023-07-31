@@ -1,0 +1,3 @@
+An *affine semigroup* is a [[Semigroup]] $S$ s.t. the binary operation is commutative, written as $+$ with identity $0$, $S$ is finitely generated and can be embedded in a [[Lattice]] $M$.
+For a finite set $\mathcal{A}\subseteq S$ we write $\mathbb{N}\mathcal{A} = \{\sum_{m\in \mathcal{A}} a_m m | a_m \in \mathbb{N} \}$.
+Since $S$ is finitely generated, there is some finite $\mathcal{A} \subseteq S$ s.t. $\mathbb{N}\mathcal{A} = S$ 

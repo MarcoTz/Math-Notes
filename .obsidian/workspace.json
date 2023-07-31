@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3382d5dd4bf6f4d",
+        "id": "39c322107442d6e6",
         "type": "tabs",
         "children": [
           {
-            "id": "03c39575a7c74f69",
+            "id": "3a7f836bcca3a712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Geometry/Schemes/Zariski's Main Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7074ad4c8d78b862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analysis/Weierstrass elliptic function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fb58e9730676023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analysis/Weierstrass elliptic function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "821a9c7c11304cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra/Tensor Product.md",
+                "file": "Convex Geometry/Affine Semigroup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curve",
+                "query": "polytope",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/Tensor Product.md",
+                "file": "Convex Geometry/Affine Semigroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/Tensor Product.md",
+                "file": "Convex Geometry/Affine Semigroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Tensor Product.md"
+                "file": "Convex Geometry/Affine Semigroup.md"
               }
             }
           }
@@ -191,35 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "821a9c7c11304cad",
+  "active": "0465211a1e2a7cfa",
   "lastOpenFiles": [
-    "Algebra/Tensor Operations on Modules.md",
-    "Algebra/Pairing.md",
-    "Category Theory/Mittag-Leffler condition.md",
+    "Convex Geometry/Face of a Cone.md",
+    "Convex Geometry/Convex Polyhedral Cone.md",
+    "Convex Geometry/Hilbert basis.md",
+    "Algebraic Geometry/Toric Geometry/Lattice Ideal.md",
+    "Algebraic Geometry/Varieties/Normal Variety.md",
+    "Algebraic Geometry/Toric Geometry/Normalization of an Affine Toric Variety.md",
+    "Algebraic Geometry/Toric Geometry/One-Parameter Subgroup.md",
+    "Convex Geometry/Pointed Affine Semigroup.md",
+    "Algebraic Geometry/Toric Geometry/Saturated affine semigroup.md",
+    "Algebraic Geometry/Toric Geometry/Semigroup Algebra.md",
+    "Convex Geometry/Separation Lemma.md",
+    "Convex Geometry/Strongly convex cone.md",
+    "Algebraic Geometry/Toric Geometry/Toric Morphism.md",
+    "Algebraic Geometry/Varieties/Zariski Tangent Space.md",
+    "Convex Geometry/Smooth cone.md",
+    "Algebraic Geometry/Toric Geometry",
+    "Convex Geometry/Rational Polyhedral Cone.md",
+    "Algebraic Geometry/Toric Geometry/Affine Toric Variety.md",
+    "Convex Geometry/Dual Polyhedral Cone.md",
+    "Convex Geometry/Erhard Polynomial.md",
+    "Convex Geometry/Polytope.md",
+    "Topology/Cone.md",
+    "Convex Geometry/Affine Semigroup.md",
+    "Algebra/Semigroup.md",
     "Algebra/Monoid.md",
-    "Algebra/Homomorphisms of Inverse Systems.md",
-    "Algebra/Krulls Theorem.md",
-    "Algebra/Homomorphism.md",
-    "Algebra/Hilbert Polynomial.md",
-    "Algebra/Flat Module.md",
-    "Algebra/Exact Sequence.md",
-    "Algebra/Eulers Totient Function.md",
-    "Algebraic Geometry/Schemes/Stein Factorization.md",
-    "Topology/Semicontinuity.md",
-    "Analysis/Weierstrass elliptic function.md",
+    "Convex Geometry/Lattice.md",
     "Analysis/Elliptic Function.md",
-    "Algebraic Geometry/Curves/Jacobian Variety.md",
-    "Algebraic Geometry/Curves/j-Invariant.md",
-    "Algebra/Ring Theory/Gradings.md",
-    "Analysis/Meromorphic Function.md",
     "Untitled",
-    "Algebraic Geometry/Varieties/Kodaira Vanishing Theorem.md",
-    "Algebraic Geometry/Module Cohomology Functors.md",
-    "Notations.md",
-    "Algebraic Geometry/Ruled Surface.md",
-    "Algebraic Geometry/Curves/Residues.md",
-    "Algebraic Geometry/Curves/Ramification.md",
-    "Algebraic Geometry/Serre Duality.md",
     "Analysis",
     "img/Pasted image 20230710231543.png",
     "img/principal fibration diagram.png",

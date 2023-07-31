@@ -1,0 +1,2 @@
+Let $V=Spec(\mathbb{C}[S])$ be an [[Affine Toric Variety]] for an [[Affine Semigroup]] $S$ and let $\sigma = Cone(S)^{\vee} \subseteq N_{\mathbb{R}}$.
+Then $\sigma$ is a strongly convex rational polyhedral cone ([[Strongly convex cone]],[[Rational Polyhedral Cone]]) and the inclusion $\mathbb{C}[S] \subseteq \mathbb{C}[\sigma^{\vee} \cap M]$ induces a morphism $U_{\sigma} \rightarrow V$ that is the normalization map of $V$ ([[Normal Variety]]).

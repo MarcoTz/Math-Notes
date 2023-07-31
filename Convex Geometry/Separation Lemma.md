@@ -1,0 +1,2 @@
+Let $\sigma_1,\sigma_2$ be two [[Dual Polyhedral Cone]]s in $N_{\mathbb{R}}$ s.t. $\tau = \sigma_1\cap \sigma_2$ is a common face ([[Face of a Cone]]).
+Then $\tau = H_m \cap \sigma_1 = H_m \cap \sigma_2$ for any $m\in Relint(\sigma_1^{\vee} \cap (-\sigma_2)^{\vee})$ 

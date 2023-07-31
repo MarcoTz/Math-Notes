@@ -1,0 +1,4 @@
+Let $S\subseteq M$ be a [[Affine Semigroup]] in a [[Lattice]] $M$. Then the semigroup algebra $\mathbb{C}[S]$ is the $\mathbb{C}$-vector space ([[Vector Space]]) with basis $S$ and multiplication induced by the multiplication in $S$.
+We have 
+* $\mathbb{C}[S]$ is an integral domain ([[Integral Domain]]) and finitely-generated $\mathbb{C}$-algebra ([[Algebra]])
+* $Spec\mathbb{C}[S]$ ([[Spectrum]]) is an [[Affine Toric Variety]] whose torus has character lattice $\mathbb{Z}S$ and if $\mathcal{A}\subset M$ is a finite set s.t. $S = \mathbb{N}\mathcal{A}$ then $Spec\mathbb{C}[S] = Y_{\mathcal{A}}$ 
