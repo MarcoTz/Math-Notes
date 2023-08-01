@@ -1,0 +1,1 @@
+A [[Polytope]] $P$ is called *simplicial* if all its facets are [[Simplices]].

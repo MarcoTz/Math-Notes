@@ -1,6 +1,6 @@
 Let $f:X\rightarrow Y$ be a [[Continous Function]] between path-connected [[Topological Space]]s ([[Path Connectedness]]).
 Then a *Moore-Postnikov Tower* is a commutative diagram below satisfying: 
-![[Pasted image 20230710231543.png]]
+![[Moore-Postnikov Diagram.png]]
 
 * each composition $X\rightarrow Z_n \rightarrow Y$ is homotopic ([[Homotopy]]) to $f$
 * $X\rightarrow Z_n$ induces an isomorphism on $\pi_i$ for $i<n$ and a surjection for $i=n$ ([[Homotopy Groups]])

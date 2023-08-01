@@ -1,0 +1,2 @@
+Let $P$ be a [[Polytope]] in $M_{\mathbb{R}}$, then the *polar dual* of $P$ is the polytope 
+$$P^{\circ} = \{u\in N_{\mathbb{R}} | \langle m,u\rangle \geq -1 \forall m\in P\}$$ where $N_{\mathbb{R}}$ is the dual space of $M_{\mathbb{R}}$

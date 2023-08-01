@@ -1,0 +1,1 @@
+A simplex $P$ ([[Simplices]]) in $M_{\mathbb{R}}$ is called *basic* if for all vertices $m_0$ of $P$, the set $\{m-m_0 | m \text{ is a vertex of } P\}$ is not the subset of a $\mathbb{Z}$-basis of $M$.

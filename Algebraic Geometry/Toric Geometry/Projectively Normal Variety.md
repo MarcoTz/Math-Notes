@@ -1,0 +1,2 @@
+An irreducible ([[Irreducible Sets]]) [[Variety]] $V\subseteq \mathbb{P}^{n-1}$ is called *projectively normal* if its affine cone $\hat{V}$ is normal ([[Normal Variety]]).
+Any projectively normal variety is normal.

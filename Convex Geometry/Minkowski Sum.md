@@ -1,0 +1,2 @@
+Let $A_1$,$A_2$ be subsets of a [[Vector Space]] (or more generally of an [[Algebra]]). Then the *Minkowski sum* of $A_1$ and $A_2$ is defined as 
+$$ A_1 + A_2 = \{m_1+m_2 | m_1 \in A_1, m_2\in A_2\}$$ If $A_1$ and $A_2$ are [[Polytope]]s, then $A_1+A_2$ is again a polytope.

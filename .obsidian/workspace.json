@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "39c322107442d6e6",
+        "id": "4e4da5a95bf95ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "3a7f836bcca3a712",
+            "id": "fafcf14801273802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convex Geometry/Affine Semigroup.md",
-                "mode": "source",
+                "file": "Set Theory/Relation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polytope",
+                "query": "projective space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,30 +88,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f3f977c335a8541",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Convex Geometry/Affine Semigroup.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "3207d02454f77ef8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convex Geometry/Affine Semigroup.md",
-                "linksCollapsed": false,
+                "file": "Set Theory/Relation.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -133,15 +116,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convex Geometry/Affine Semigroup.md"
+                "file": "Set Theory/Relation.md"
+              }
+            }
+          },
+          {
+            "id": "e8edf5974806f871",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Set Theory/Relation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -154,38 +155,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0465211a1e2a7cfa",
+  "active": "fafcf14801273802",
   "lastOpenFiles": [
+    "Algebraic Geometry/Varieties/Projective Space.md",
+    "Algebraic Geometry/Varieties/Bertini's Theorem.md",
+    "Algebraic Geometry/Toric Geometry/Projectively Normal Variety.md",
+    "Convex Geometry/Polar Dual.md",
+    "Algebraic Geometry/Toric Geometry/Affine Pieces of a Projective Toric Variety.md",
+    "Convex Geometry/Simplices.md",
+    "Notations.md",
+    "Algebraic Topology/Homology/Chain Complexes.md",
+    "Convex Geometry/Basic Simplex.md",
+    "Algebraic Geometry/Toric Geometry/Toric Variety of a Polytope.md",
+    "Convex Geometry/Very Ample Polytope.md",
+    "Convex Geometry/Simple Polytope.md",
+    "Convex Geometry/Smooth Polytope.md",
+    "Convex Geometry/Reflexive Polytope.md",
+    "Algebraic Geometry/Toric Geometry/Projective Toric Variety.md",
+    "Convex Geometry/Normal Fan.md",
+    "Convex Geometry/Normal Polytope.md",
+    "Convex Geometry/Minkowski Sum.md",
+    "Convex Geometry/Polytope.md",
+    "Convex Geometry/Simplicial Polytope.md",
+    "Algebraic Geometry/Toric Geometry/Affine Toric Variety.md",
+    "Algebraic Geometry/Varieties/Weighted Projective Space.md",
+    "img/Moore-Postnikov Diagram.png",
+    "Convex Geometry/Affine Semigroup.md",
     "Convex Geometry/Face of a Cone.md",
     "Convex Geometry/Convex Polyhedral Cone.md",
     "Convex Geometry/Hilbert basis.md",
-    "Algebraic Geometry/Toric Geometry/Lattice Ideal.md",
-    "Algebraic Geometry/Varieties/Normal Variety.md",
-    "Algebraic Geometry/Toric Geometry/Normalization of an Affine Toric Variety.md",
-    "Algebraic Geometry/Toric Geometry/One-Parameter Subgroup.md",
-    "Convex Geometry/Pointed Affine Semigroup.md",
-    "Algebraic Geometry/Toric Geometry/Saturated affine semigroup.md",
-    "Algebraic Geometry/Toric Geometry/Semigroup Algebra.md",
-    "Convex Geometry/Separation Lemma.md",
-    "Convex Geometry/Strongly convex cone.md",
-    "Algebraic Geometry/Toric Geometry/Toric Morphism.md",
-    "Algebraic Geometry/Varieties/Zariski Tangent Space.md",
-    "Convex Geometry/Smooth cone.md",
     "Algebraic Geometry/Toric Geometry",
-    "Convex Geometry/Rational Polyhedral Cone.md",
-    "Algebraic Geometry/Toric Geometry/Affine Toric Variety.md",
-    "Convex Geometry/Dual Polyhedral Cone.md",
-    "Convex Geometry/Erhard Polynomial.md",
-    "Convex Geometry/Polytope.md",
-    "Topology/Cone.md",
-    "Convex Geometry/Affine Semigroup.md",
-    "Algebra/Semigroup.md",
-    "Algebra/Monoid.md",
-    "Convex Geometry/Lattice.md",
-    "Analysis/Elliptic Function.md",
     "Untitled",
     "Analysis",
-    "img/Pasted image 20230710231543.png",
     "img/principal fibration diagram.png",
     "Pasted image 20230710230920.png",
     "img/Postnikov Tower diagram.png",

@@ -1,0 +1,1 @@
+A [[Polytope]] $P$ is called *simple* if each vertex of $P$ is the intersection of $\dim P$ facets of $P$.
