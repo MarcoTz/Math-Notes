@@ -23,3 +23,4 @@ Let $Y,Z$ be varieties of dimensions $r,s$ in $\mathbb{P}^n$. Then every irreduc
 ### Abstract Variety
 
 Via the functor $t$ ([[Schemes and Varieties]]), any variety over a algebraically closed field $k$, can be identified with its corresponding [[Scheme]], so the term *abstract variety* is used for any separated ([[Separated Morphisms]]) scheme of finite type ([[Finite Morphisms of Schemes]]) over an algebraically closed field $k$. If an abstract variety is proper ([[Proper Morphism]]) over $k$, we say it is *complete*.
+Also see [[Abstract Variety]].

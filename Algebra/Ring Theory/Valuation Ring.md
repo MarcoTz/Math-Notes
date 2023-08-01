@@ -9,3 +9,11 @@ A valuation ring is an [[Integral Domain]] and is the valuation ring of some val
 ### Discrete Valuation Rings
 
 A valuation $\nu$ is called *discrete* if its value group $G$ is the [[Integers]]. The corresponding valuation ring is called *discrete valuation ring*.
+
+If $R$ is a DVR with valuation $\nu:K^*\rightarrow \mathbb{Z}$ then 
+* $x\in R$ is invertible iff $\nu(x) = 0$ 
+* $R$ is local ([[Local Ring]]) with maximal ideal $m = \{ x\in R | \nu(x) > 0\} \cup \{0\}$ 
+* $R$ is normal ([[Normal Ring]])
+* $R$ is a principal ideal domain ([[Ideal#Principal Ideal]])
+* $R$ is noetherian ([[Noetherian Ring]])
+* The only nontrivial prime ideal ([[Prime Ideal]]) of $R$ is $m$

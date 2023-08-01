@@ -5,6 +5,7 @@ Then the set $\Sigma_P = \{\sigma_Q | Q\preccurlyeq P\}$ is called the *normal f
 We have 
 * for $\sigma_Q \in \Sigma_P$, each face of $\sigma_Q$ is in $\Sigma_P$ 
 * for $\sigma_Q,\sigma_{Q^{\prime}}\in \Sigma_P$, the intersection $\sigma_Q \cap \sigma_{Q^{\prime}}$ is a face of both $\sigma_Q$ and $\sigma_{Q^{\prime}}$ 
+* The normal fan of $P$ is a [[Fan]]
 * $\dim Q + \dim \sigma_Q = n$ for all faces $Q\preccurlyeq P$ 
 * $N_{\mathbb{R}} = \bigcup_{v \text{ vertex of } P} \sigma_v = \bigcup_{\sigma_Q \in \Sigma_P} \sigma_Q$ 
 * for any $m\in M$ and $k\geq 1$, the polytopes $m+P$ and $kP$ have the same normal fan as $P$.

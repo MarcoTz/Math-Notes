@@ -1,0 +1,5 @@
+Let $X_{\Sigma_1}$ and $X_{\Sigma_2}$ be two normal toric varieties ([[Toric Variety]], [[Normal Variety]]) corresponding to [[Fan]]s $\Sigma_1$ and $\Sigma_2$ in $(N_1)_{\mathbb{R}}$  and $(N_2)_{\mathbb{R}}$ resprectively.
+A morphism $\Phi:X_{\Sigma_1} \rightarrow X_{\Sigma_2}$ is called *toric* if $\Phi(T_{N_1})\subseteq T_{N_2}$ and $\Phi|_{T_{N_1}}$ is a group homomorphism where $T_{N_1}$ and $T_{N_2}$ are the tori in $X_{\Sigma_1}$ and $X_{\Sigma_2}$ 
+
+If $\bar{\Phi}:N_1\rightarrow N_2$ is a $\mathbb{Z}$-linear map compatible with $\Sigma_1$ and $\Sigma_2$ ([[Fan-Compatible Map]]), there is a toric morphism $\Phi:X_{\Sigma_1} \rightarrow X_{\Sigma_2}$ s.t. $\Phi|_{T_{N_1}}$ is the map $\bar{\Phi} \otimes \mathbb{1}$.
+If $\Phi:X_{\Sigma_1} \rightarrow X_{\Sigma_2}$ is a toric morphism, $\Phi$ induces a $\mathbb{Z}$-linear map $\bar{\Phi} : N_1 \rightarrow N_2$ compatible with $\Sigma_1$ and $\Sigma_2$ 

@@ -1,0 +1,2 @@
+Let $N_1,N_2$ be [[Lattice]]s with $\Sigma_1$ a [[Fan]] in $(N_1)_{\mathbb{R}}$ and $\Sigma_2$ a fan in $(N_2)_{\mathbb{R}}$ and $\bar{\Phi}:N_1\rightarrow N_2$ a $\mathbb{Z}$-linear mapping.
+$\bar{\Phi}$ is called *compatible* with $\Sigma_1$ and $\Sigma_2$ if for $\sigma_1\in\Sigma_2$ there is some $\sigma_2\in\Sigma_2$ s.t. $\bar{\Phi}(\sigma_1) \subseteq \sigma_2$ 

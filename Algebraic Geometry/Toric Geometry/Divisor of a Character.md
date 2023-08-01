@@ -1,0 +1,2 @@
+Let $X_{\Sigma}$ be a [[Toric Variety]] corresponding to a [[Fan]] $\Sigma$ in $N_{\mathbb{R}}$, let $m\in M$ and $\chi^m$ the corresponding character ([[Character group of the torus]]).
+Then $\chi^m$ is a rational function ([[Rational Map]]) on $X_{\Sigma}$ with divisor given by $div(\chi^m) = \sum_{\rho\in\Sigma(1)}\langle m,u_{\rho}\rangle D_{\rho}$ ([[Principal Divisor]],[[Weil Divisor]]).
