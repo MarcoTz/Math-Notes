@@ -4,7 +4,7 @@ Then the [[Weil Divisor]]s of $X_{\Sigma}$ invariant under the torus action on $
 $$ Div_{T_N}(X_{\Sigma}) = \bigoplus_{\rho \in \Sigma(1)} \mathbb{Z} D_{\rho} \subseteq Div(X_{\Sigma})$$ 
 $Div_{T_{\Sigma}}(X_{\Sigma})$ is the group of $T_N$-invariant Weil divisors on $X_{\Sigma}$.
 
-There is an exact sequence 
+There is an [[Exact Sequence]]
 $$ M \rightarrow Div_{T_N}(X_{\Sigma}) \rightarrow Cl(X_{\Sigma}) \rightarrow 0$$ 
 ([[Linear Equivalence]]), where the first map is $m\mapsto div(\chi^m)$ and the second is the quotient map.
 

@@ -8,18 +8,137 @@
         "type": "tabs",
         "children": [
           {
-            "id": "747722710a65ccfc",
+            "id": "99285a6b210185f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convex Geometry/Fan.md",
+                "file": "Notations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaf7641336ee6810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Logic/Propositional Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2aaa02c9b7b0f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Logic/Axiomatic Logical Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f15a51701bc42c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Logic/Natural Deduction Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f48c536e6850f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Logic/Natural Deduction Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db79b65da3124466",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Natural Deduction Introduction.png"
+              }
+            }
+          },
+          {
+            "id": "6959bf7fe0334fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequent Calculus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1a9a3b85aacc822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequent Calculus for Intuitionistic Propositional Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4729437d16d687ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequent Calculus for Intuitionistic Propositional Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "135f8b54034062cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00fd13c325ac0fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -48,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valuation",
+                "query": "action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convex Geometry/Fan.md",
+                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convex Geometry/Fan.md"
+                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md"
               }
             }
           },
@@ -126,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convex Geometry/Fan.md",
+                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,48 +274,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0465211a1e2a7cfa",
+  "active": "00fd13c325ac0fc1",
   "lastOpenFiles": [
-    "Convex Geometry/Refinement of a Fan.md",
-    "Algebraic Geometry/Toric Geometry/Splitting Fan.md",
-    "Algebraic Geometry/Toric Geometry/Toric-Invariant Divisors.md",
-    "Algebraic Geometry/Toric Geometry/Divisor of a Character.md",
-    "Algebraic Geometry/Divisors/Linear Equivalence.md",
-    "Algebraic Geometry/Divisors/Induced Morphism on Divisors.md",
-    "Algebraic Geometry/Divisors/Effective Divisor.md",
-    "Algebraic Geometry/Divisors/Divisor of Zeros.md",
-    "Algebraic Geometry/Divisors/Cartier Divisor.md",
-    "Algebraic Geometry/Divisors/Picard Group.md",
-    "Algebraic Geometry/Divisors/Weil Divisor.md",
-    "Algebraic Geometry/Divisors/Principal Divisor.md",
-    "Algebra/Ring Theory/Valuation Ring.md",
-    "Algebraic Geometry/Schemes/Proper Morphism.md",
-    "Algebraic Geometry/Toric Geometry/Toric Variety.md",
+    "Mathematical Logic/Propositional Formulas.md",
+    "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
+    "Valuations.md",
+    "img/Cut G3c.png",
+    "img/Structural Rules G3p.png",
+    "Sequent Calculus for Intuitionistic Propositional Logic.md",
+    "Axiomatic Intuitionistic Propositional Logic..md",
+    "img/Rules G3cp.png",
+    "img/Intuitionistic Propositional Logic Axiom.png",
+    "Mathematical Logic/Axiomatic Logical Systems.md",
+    "Sequent Calculus.md",
+    "img/G3ip admissible.png",
+    "img/Intuitionistic Sequent Calculus.png",
+    "Mathematical Logic/Natural Deduction Systems.md",
+    "Mathematical Logic/Natural Deduction For Intuitionistic Logic.md",
+    "Mathematical Logic/Assertions.md",
+    "img/Natural Deduction falsumE.png",
+    "img/Natural Deduction veeE.png",
+    "img/Natural Deduction &E.png",
+    "img/Natural Deduction supsetE.png",
+    "Notations.md",
+    "[Assertions.md",
+    "Mathematical Logic",
+    "2023-08-03.md",
+    "Convex Geometry/Support Function on a Fan.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Algebraic Geometry/Toric Geometry/Cartier and Weil Divisors on Toric Varieties.md",
+    "Algebraic Geometry/Toric Geometry/Cartier Divisors on Toric Varieties.md",
+    "Algebraic Geometry/Varieties/Affine Space.md",
+    "Algebraic Geometry/Varieties/Rational Map.md",
+    "Algebraic Geometry/Varieties/Birational Map.md",
+    "Algebraic Geometry/Blowing Up.md",
+    "Algebra/Group Theory/Group.md",
+    "Convex Geometry/Polytope.md",
+    "Algebra/Group Theory/Abelian Group.md",
+    "Algebra/Field Theory/Field.md",
+    "Topology/Topological Space.md",
     "Algebraic Geometry/Curves/Curve (Scheme).md",
-    "Convex Geometry/Fan-Compatible Map.md",
-    "Algebraic Geometry/Toric Geometry/Torus Factor.md",
-    "Algebraic Geometry/Toric Geometry/Toric Morphism 1.md",
-    "Algebraic Geometry/Toric Geometry/Orbit-Cone Correspondence.md",
-    "Algebraic Geometry/Toric Geometry/One-Parameter Subgroup.md",
-    "Algebraic Geometry/Toric Geometry/Torus Orbits.md",
-    "Algebraic Geometry/Toric Geometry/Algebraic Torus.md",
-    "Algebraic Geometry/Toric Geometry/Distinguished Point of an affine toric variety.md",
-    "Convex Geometry/Fan.md",
-    "Convex Geometry/Smooth cone.md",
-    "img/Moore-Postnikov Diagram.png",
     "Algebraic Geometry/Toric Geometry",
-    "Untitled",
     "Analysis",
-    "img/principal fibration diagram.png",
-    "Pasted image 20230710230920.png",
-    "img/Postnikov Tower diagram.png",
-    "img/Pullback fibration diagram.png",
-    "img/stable i stem.png",
-    "img/bundle diagram.png",
-    "img/CW Model Diagram.png",
-    "img/RIght derived functor diagram.png",
-    "img/delta functor diagram.png",
-    "Homological Algebra",
-    "Untitled.canvas"
+    "Homological Algebra"
   ]
 }
