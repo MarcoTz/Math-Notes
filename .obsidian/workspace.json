@@ -4,93 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c2bb5f68cab5eddc",
+        "id": "fe9864f647e3200f",
         "type": "tabs",
         "children": [
           {
-            "id": "25f01eb56d048f49",
+            "id": "74577b52f4747709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Logic/Sequent Calculus for Classical Predicate Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff647d360b6c5062",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/G3c rules.png"
-              }
-            }
-          },
-          {
-            "id": "6f75d76531947ddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Category Theory/Category.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39f9688dd859f823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Category Theory/Functor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "234f1d513c00a5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Category Theory/Natural Transformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b7615bc655a9962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opposite Category.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45efaf266e6f1e64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Category Theory/Essentially surjective.md",
+                "file": "The Locally Nameless Representation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opposite Category.md",
+                "file": "The Locally Nameless Representation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opposite Category.md"
+                "file": "The Locally Nameless Representation.md"
               }
             }
           },
@@ -197,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opposite Category.md",
+                "file": "The Locally Nameless Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,16 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b7615bc655a9962",
+  "active": "74577b52f4747709",
   "lastOpenFiles": [
-    "Category Theory/Full and Faithful.md",
+    "The Locally Nameless Representation.md",
+    "Evaluation Orders in Lambda Calculus.md",
+    "Formal Grammar.md",
+    "Untyped Lambda Calculus.md",
+    "Language Semantics.md",
     "Category Theory/Essentially surjective.md",
+    "Category Theory/Opposite Category.md",
+    "Category Theory/Natural Transformation.md",
+    "Category Theory/Functor.md",
+    "Type Theory",
+    "Category Theory/Full and Faithful.md",
     "Category Theory/Equivalence of Categories.md",
     "Category Theory/Abelian Category.md",
-    "Category Theory/Natural Transformation.md",
     "Category Theory/Category.md",
-    "Category Theory/Functor.md",
-    "Opposite Category.md",
     "Category Theory/Cokernel.md",
     "Mathematical Logic/Predicate Logic.md",
     "img/G3c rules.png",
@@ -255,16 +190,11 @@
     "img/Structural Rules G3p.png",
     "img/Rules G3cp.png",
     "img/Intuitionistic Propositional Logic Axiom.png",
-    "Mathematical Logic/Axiomatic Logical Systems.md",
     "img/G3ip admissible.png",
     "img/Intuitionistic Sequent Calculus.png",
-    "Mathematical Logic/Assertions.md",
     "img/Natural Deduction falsumE.png",
     "img/Natural Deduction veeE.png",
-    "[Assertions.md",
     "Mathematical Logic",
-    "2023-08-03.md",
-    "Convex Geometry/Support Function on a Fan.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Algebraic Geometry/Toric Geometry",
