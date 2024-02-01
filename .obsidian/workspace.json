@@ -4,141 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "764676aead3dcad5",
+        "id": "c2bb5f68cab5eddc",
         "type": "tabs",
         "children": [
           {
-            "id": "99285a6b210185f3",
+            "id": "25f01eb56d048f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaf7641336ee6810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Logic/Propositional Formulas.md",
+                "file": "Mathematical Logic/Sequent Calculus for Classical Predicate Logic.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b2aaa02c9b7b0f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Logic/Axiomatic Logical Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f15a51701bc42c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Logic/Natural Deduction Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f48c536e6850f1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Logic/Natural Deduction Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db79b65da3124466",
+            "id": "ff647d360b6c5062",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Natural Deduction Introduction.png"
+                "file": "img/G3c rules.png"
               }
             }
           },
           {
-            "id": "6959bf7fe0334fb7",
+            "id": "6f75d76531947ddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequent Calculus.md",
+                "file": "Category Theory/Category.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d1a9a3b85aacc822",
+            "id": "39f9688dd859f823",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequent Calculus for Intuitionistic Propositional Logic.md",
+                "file": "Category Theory/Functor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4729437d16d687ef",
+            "id": "234f1d513c00a5cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequent Calculus for Intuitionistic Propositional Logic.md",
+                "file": "Category Theory/Natural Transformation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "135f8b54034062cf",
+            "id": "6b7615bc655a9962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
+                "file": "Opposite Category.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00fd13c325ac0fc1",
+            "id": "45efaf266e6f1e64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
+                "file": "Category Theory/Essentially surjective.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
+                "file": "Opposite Category.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md"
+                "file": "Opposite Category.md"
               }
             }
           },
@@ -245,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
+                "file": "Opposite Category.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,47 +226,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00fd13c325ac0fc1",
+  "active": "6b7615bc655a9962",
   "lastOpenFiles": [
+    "Category Theory/Full and Faithful.md",
+    "Category Theory/Essentially surjective.md",
+    "Category Theory/Equivalence of Categories.md",
+    "Category Theory/Abelian Category.md",
+    "Category Theory/Natural Transformation.md",
+    "Category Theory/Category.md",
+    "Category Theory/Functor.md",
+    "Opposite Category.md",
+    "Category Theory/Cokernel.md",
+    "Mathematical Logic/Predicate Logic.md",
+    "img/G3c rules.png",
+    "img/G3i rules.png",
+    "Mathematical Logic/Sequent Calculus for Intuitionistic Predicate Logic.md",
+    "Mathematical Logic/Sequent Calculus for Classical Predicate Logic.md",
     "Mathematical Logic/Propositional Formulas.md",
     "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
-    "Valuations.md",
+    "Mathematical Logic/Sequent Calculus for Intuitionistic Propositional Logic.md",
+    "Mathematical Logic/Natural Deduction For Intuitionistic Logic.md",
+    "Mathematical Logic/Natural Deduction Systems.md",
+    "Mathematical Logic/Valuations.md",
+    "Mathematical Logic/Sequent Calculus.md",
+    "Notations.md",
+    "Mathematical Logic/Axiomatic Intuitionistic Propositional Logic..md",
     "img/Cut G3c.png",
     "img/Structural Rules G3p.png",
-    "Sequent Calculus for Intuitionistic Propositional Logic.md",
-    "Axiomatic Intuitionistic Propositional Logic..md",
     "img/Rules G3cp.png",
     "img/Intuitionistic Propositional Logic Axiom.png",
     "Mathematical Logic/Axiomatic Logical Systems.md",
-    "Sequent Calculus.md",
     "img/G3ip admissible.png",
     "img/Intuitionistic Sequent Calculus.png",
-    "Mathematical Logic/Natural Deduction Systems.md",
-    "Mathematical Logic/Natural Deduction For Intuitionistic Logic.md",
     "Mathematical Logic/Assertions.md",
     "img/Natural Deduction falsumE.png",
     "img/Natural Deduction veeE.png",
-    "img/Natural Deduction &E.png",
-    "img/Natural Deduction supsetE.png",
-    "Notations.md",
     "[Assertions.md",
     "Mathematical Logic",
     "2023-08-03.md",
     "Convex Geometry/Support Function on a Fan.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Algebraic Geometry/Toric Geometry/Cartier and Weil Divisors on Toric Varieties.md",
-    "Algebraic Geometry/Toric Geometry/Cartier Divisors on Toric Varieties.md",
-    "Algebraic Geometry/Varieties/Affine Space.md",
-    "Algebraic Geometry/Varieties/Rational Map.md",
-    "Algebraic Geometry/Varieties/Birational Map.md",
-    "Algebraic Geometry/Blowing Up.md",
-    "Algebra/Group Theory/Group.md",
-    "Convex Geometry/Polytope.md",
-    "Algebra/Group Theory/Abelian Group.md",
-    "Algebra/Field Theory/Field.md",
-    "Topology/Topological Space.md",
-    "Algebraic Geometry/Curves/Curve (Scheme).md",
     "Algebraic Geometry/Toric Geometry",
     "Analysis",
     "Homological Algebra"

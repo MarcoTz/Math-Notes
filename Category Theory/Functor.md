@@ -5,3 +5,5 @@ A functor must satisfy the following properties
 1. $F(\mathbb{1}_{X}) = \mathbb{1}_{F(X)}$ for every $X\in Ob(\mathcal{C})$
 2. If $F$ is covariant, $F(f\circ g) = F(f)\circ F(g)$ for each $f\in Mor(X,Y),g\in Mor(F(X),F(Y))$ 
     If $F$ is contravariant $F(f\circ g) = F(g)\circ F(f)$ for each $f\in Mor(X,Y), g\in Mor(F(Y),F(X))$
+
+A contravariant functor $\mathcal{A}\rightarrow \mathcal{B}$ is the same as a covariant functor $\mathcal{A}^{op}\rightarrow\mathcal{B}$ 

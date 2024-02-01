@@ -1,0 +1,1 @@
+Let $\mathcal{A}$ be a [[Category]]. Then the *opposite category* or *dual category* $\mathcal{A}^{op}$ of $\mathcal{A}$ is the category with $ob(\mathcal{A}) = ob(\mathcal{A}^{op})$ and for each morphism $f\in Mor(X,Y)$ in $\mathcal{A}$ a corresponding morphism $f^{op}\in Mor(Y,X)$ in $\mathcal{A}^{op}$ such that each morphism in $\mathcal{A}^{op}$ has this form.

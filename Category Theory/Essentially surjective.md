@@ -1,0 +1,1 @@
+Let $F: \mathcal{A}\rightarrow\mathcal{B}$ be a [[Functor]]. Then $F$ is *essentially surjective on objects* if for all $B\in\mathcal{B}$ there is some $A\in \mathcal{A}$ with $F(A) \cong B$.

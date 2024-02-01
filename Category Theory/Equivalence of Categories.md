@@ -1,0 +1,6 @@
+Let $\mathcal{A},\mathcal{B}$ be categories ([[Category]]). Then a *natural equivalence* between $\mathcal{A}$ and $\mathcal{B}$ is a pair of [[Functor]]s $F,G:\mathcal{A}\rightarrow \mathcal{B}$ with natural isomorphisms ([[Natural Transformation]]) $\eta : 1_{\mathcal{A}} \rightarrow G\circ F$ and $\epsilon : F\circ G \rightarrow 1_{\mathcal{B}}$.
+If a natural equivalence between $\mathcal{A}$ and $\mathcal{B}$ exists, we say $\mathcal{A}$ and $\mathcal{B}$ are *equivalent*, written $\mathcal{A} \simeq \mathcal{B}$ and $F$ and $G$ are called *equivalences*.
+
+A functor is an equivalence if and only if it is fully faithful and essentially surjective ([[Full and Faithful]], [[Essentially surjective]]).
+Every category $\mathcal{C}$ is equivalent to the full subcategory $\mathcal{C}^{\prime}$ containing one object in each isomorphism class. 
+More generally, if $F:\mathcal{C}\rightarrow \mathcal{D}$ is a fully faithful functor, $\mathcal{C}$ is equivalent to the full subcategory of $\mathcal{D}$ with objects $F(C)$ for $C\in\mathcal{C}$. 
