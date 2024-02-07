@@ -7,19 +7,10 @@ A variable $x$ is called *bound* if it appears in a term $t$ inside a lambda abs
 In this case $\lambda x.$ is called the *binder* of $x$.
 A term with no free variables is called *closed* or a *combinator*.
 
-The untyped lambda calculus is evaluated using the rule 
-$$ (\lambda x.t_1)\ t_2 \mapsto t_1[t_2/x]$$ where $t_1[t_2/x]$ means replacing (free) $x$ in $t_1$ for $t_2$. 
+The untyped lambda calculus is evaluated ([[Evaluation Relation]]) using the rule 
+$$ (\lambda x.t_1)\ t_2 \mapsto t_1[t_2/x]$$ ([[Substitution]]) 
 A term $(\lambda x.t_1)\ t_2$ is called a *redex* (reducible expression).
 
-### Substitution
-When reducing a redex (with any evaluation order ([[Evaluation Orders in Lambda Calculus]])), substitution is defined as follows 
-$$ x[s/x] = s$$
-$$ y[s/x] = y\quad \text{ if }y\neq x$$
-$$ (\lambda y.t_1)[s/x]= \lambda y. t_1[s/x]\quad \text{if }y\neq x$$ 
-$$ (t_1\ t_2)[s/x] = t_1[s/x]\ t_2[s/x]$$
- When  substitution, we always assume all variables are distinct. 
-If we have a substitution $\lambda x.t[s/x]$, we always have to rename the bound $x$ to a new variable before we can substitute. 
-This is called $\alpha$-renaming, and terms that are equal up to $\alpha$-renaming are called *$\alpha$-equivalent*.
 ### Programming in Lambda Calculus
 
 #### Booleans

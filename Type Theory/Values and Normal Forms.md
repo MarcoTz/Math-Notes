@@ -1,0 +1,2 @@
+In a programming language with an [[Evaluation Relation]] $t\mapsto t^{\prime}$, a *normal form* is a term that cannot be evaluated any further.
+A *value* is a normal form specified in the grammar ([[Formal Grammar]]) of the language that is "allowed" to be a normal form, and indicates evaluation has finished.

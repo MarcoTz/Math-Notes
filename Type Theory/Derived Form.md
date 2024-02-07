@@ -1,0 +1,3 @@
+In a programming language with terms $t$, a *derived form* is some term that is not part of the grammar ([[Formal Grammar]]) of the language, but can be defined in terms of other terms. 
+The usual example is sequencing: $t_1;t_2 \coloneq (\lambda x:\mathtt{Unit} t_2)\ t_1$ ([[Simply Typed Lambda Calculus]], [[Unit Type]]), evaluating term $t_1$ and then term $t_2$. 
+Another derived form in simply typed lambda calculus is a wild card abstraction $\lambda\_:S.t\coloneq \lambda x:S.t$ where $x$ is not free in $t$. 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9864f647e3200f",
+        "id": "357cca87b27bd5db",
         "type": "tabs",
         "children": [
           {
-            "id": "74577b52f4747709",
+            "id": "be7182515771e73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Locally Nameless Representation.md",
+                "file": "Type Theory/References.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "action",
+                "query": "renaming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Locally Nameless Representation.md",
+                "file": "Type Theory/References.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Locally Nameless Representation.md"
+                "file": "Type Theory/References.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Locally Nameless Representation.md",
+                "file": "Type Theory/References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,37 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74577b52f4747709",
+  "active": "be7182515771e73b",
   "lastOpenFiles": [
-    "The Locally Nameless Representation.md",
-    "Evaluation Orders in Lambda Calculus.md",
-    "Formal Grammar.md",
-    "Untyped Lambda Calculus.md",
-    "Language Semantics.md",
-    "Category Theory/Essentially surjective.md",
-    "Category Theory/Opposite Category.md",
-    "Category Theory/Natural Transformation.md",
-    "Category Theory/Functor.md",
-    "Type Theory",
-    "Category Theory/Full and Faithful.md",
-    "Category Theory/Equivalence of Categories.md",
-    "Category Theory/Abelian Category.md",
-    "Category Theory/Category.md",
-    "Category Theory/Cokernel.md",
+    "Type Theory/Exception Handling.md",
+    "Type Theory/References.md",
+    "Type Theory/Evaluation Relation.md",
+    "Type Theory/Normalization.md",
+    "Type Theory/Fixed Point Combinators.md",
+    "Type Theory/List Types.md",
+    "Type Theory/Case Expressions.md",
+    "Type Theory/The Locally Nameless Representation.md",
+    "Type Theory/Substitution.md",
+    "Type Theory/Untyped Lambda Calculus.md",
+    "Copatterns Programming Infinite Structures by Observations.pdf",
+    "The Duality of Computation 1.pdf",
+    "Structural Refinement Types 1.pdf",
+    "Copatterns Programming Infinite Structures by Observations 1.pdf",
+    "The Duality of Computation.pdf",
+    "Structural Refinement Types.pdf",
     "Mathematical Logic/Predicate Logic.md",
+    "Type Theory/Variant Types.md",
+    "Type Theory/Unit Type.md",
+    "Type Theory/Sum Types.md",
+    "Type Theory/Base Types.md",
+    "Type Theory/Ascription.md",
+    "Type Theory/Records.md",
+    "Type Theory/Tuples.md",
+    "Type Theory/Pairs.md",
+    "Type Theory/Type System.md",
+    "Type Theory/Values and Normal Forms.md",
+    "Type Theory/Let Bindings.md",
+    "Type Theory/Derived Form.md",
+    "Type Theory/Side effects.md",
+    "Type Theory/Type Safety.md",
+    "Type Theory/Simply Typed Lambda Calculus.md",
+    "Type Theory",
     "img/G3c rules.png",
     "img/G3i rules.png",
-    "Mathematical Logic/Sequent Calculus for Intuitionistic Predicate Logic.md",
-    "Mathematical Logic/Sequent Calculus for Classical Predicate Logic.md",
-    "Mathematical Logic/Propositional Formulas.md",
-    "Mathematical Logic/Sequent Calculus for Classical Propositional Logic.md",
-    "Mathematical Logic/Sequent Calculus for Intuitionistic Propositional Logic.md",
-    "Mathematical Logic/Natural Deduction For Intuitionistic Logic.md",
-    "Mathematical Logic/Natural Deduction Systems.md",
-    "Mathematical Logic/Valuations.md",
-    "Mathematical Logic/Sequent Calculus.md",
-    "Notations.md",
-    "Mathematical Logic/Axiomatic Intuitionistic Propositional Logic..md",
     "img/Cut G3c.png",
     "img/Structural Rules G3p.png",
     "img/Rules G3cp.png",
@@ -198,7 +204,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Algebraic Geometry/Toric Geometry",
-    "Analysis",
-    "Homological Algebra"
+    "Analysis"
   ]
 }

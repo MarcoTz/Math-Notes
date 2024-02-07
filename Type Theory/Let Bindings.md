@@ -1,0 +1,4 @@
+*Let Bindings* are a feature of programming languages $\mathtt{let}\ x=t\ \mathtt{in}\ t$ where $x$ stands for some term in another term. 
+It is typed as 
+$$\frac{\Gamma \vdash t_1:T_1\quad \Gamma, x:T_1\vdash t_2:T_2}{\Gamma \vdash \mathtt{let}\ x=t_1\ \mathtt{in}\ t_1:T_2}$$ and evaluated with 
+$$ \mathtt{let}\ x=v\ \mathtt{in}\ t_1\mapsto t_2[v/x]$$ $$ \frac{t_1\mapsto t_1^{\prime}}{\mathtt{let}\ x=t_1\ \mathtt{in}\ t_2 \mapsto \mathtt{let}\ x=t_1^{\prime}\ \mathtt{in}\ t_2}$$ These evaluation rules are used in call-by-value ([[Evaluation Orders in Lambda Calculus]]) and will look different with other evaluation orders.

@@ -1,0 +1,4 @@
+Given a programming language, a type system is a way to assign *types* $\tau$ to terms $t$ of the language.
+There is a fixed set of types in a type system, consisting of [[Base Types]] such as Integers or Strings and *Type Constructors* such as function types, that create new types from given types (such as the function type $\tau_1\rightarrow \tau_2$ ([[Simply Typed Lambda Calculus]]). 
+
+Assigning a term $t$ a type $\tau$ is usually written $t:\tau$ and when there is an *environment* $\Gamma$ containing additional information needed to assign types, we write $\Gamma \vdash t:\tau$. Such environments usually contain types for variables in the language.

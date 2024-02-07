@@ -1,4 +1,4 @@
-When dealing with a calculus containing variables (for example [[Untyped Lambda Calculus]]), we always have to make sure variables are distinct, which may require $\alpha$-renaming. 
+When dealing with a calculus containing variables (for example [[Untyped Lambda Calculus]]), we always have to make sure variables are distinct, which may require $\alpha$-renaming ([[Substitution]]). 
 An alternative to $\alpha$-renaming is a *nameless representation* of variables, where variables do not have names $x,y,\dots$ but indices $0,1,\dots$. These indices are called *deBruijn indices*.
 
 Terms are then defined as follows (using the untyped lambda calculus forms)
