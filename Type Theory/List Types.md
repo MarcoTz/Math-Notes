@@ -7,3 +7,7 @@ Evaluation ([[Evaluation Relation]]) for lists is then done with
 $$ \frac{t_1\mapsto t_1^{\prime}}{\mathtt{Cons}(t_1,t_2) \mapsto \mathtt{Cons}(t_1^{\prime},t_2)}$$
 $$ \frac{t_2\mapsto t_2^{\prime}}{\mathtt{Cons}(v,t_2)\mapsto \mathtt{Cons}(v,t_2^{\prime})}$$
 Other computations with lists is usually done with [[Case Expressions]].
+
+[[Subtyping]] for lists is done with the contents covariant ([[Variance]])
+
+$$\frac{\tau<:\sigma}{\mathtt{List} \tau <: \mathtt{List} \sigma}$$ 

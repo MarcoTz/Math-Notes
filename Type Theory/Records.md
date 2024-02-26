@@ -9,3 +9,7 @@ When we have a [[Type System]], records have a *record type* $\{l_1:T_1,\dots,l_
 
 $$ \frac{\Gamma\vdash t_i:T_i \forall i}{\Gamma \vdash \{l_1=t_1,\dots,l_n=t_n\} : \{l_1:T_1,\dots,l_n:T_n\}}$$
 $$ \frac{\Gamma\vdash t:\{l_1:T_1,\dots,l_n:T_n\}}{\Gamma \vdash t.l_j : T_j}$$
+[[Subtyping]] for records comes in three parts
+
+$$ \{ l_1:\tau_1,\dots,l_{n+k}:\tau_{n+k}\} <: \{ l_1:\tau_1,\dots,l_n:\tau_n\}$$
+$$\frac{\tau_i<:\sigma_i \forall i}{\{l_1:\tau_1,\dots,l_n:\tau_n\}<:\{l_1:\sigma_1,\dots,l_n:\tau_n\}}$$$$\frac{\{k_1:\tau_1,\dots,k_n:\tau_n\}\text{ is a permutation of } \{l_1:\sigma_1,\dots,l_n:\sigma_n\}}{\{k_1:\tau_1,\dots,k_n:\tau_n\}<:\{l_1:\sigma_1,\dots,l_n:\sigma_n:\sigma_i\}}$$ 

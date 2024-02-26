@@ -1,0 +1,3 @@
+
+Given a type operator $F$ ([[Base Types]]) with $n$ arguments in a [[Type System]] with [[Subtyping]], an argument $x_i$ is called *covariant* if $F(\dots,\tau_i,\dots) <: F(\dots, \sigma_i,\dots)$ whenever $\tau_i <: \sigma_i$ and *contravariant* if $F(\dots,\tau_i,\dots) <: F(\dots,\sigma_i,\dots)$ whenever $\sigma_i<:\tau_i$. (similar to [[Functor]]s).
+If a type operator is neither covariant nor contravariant, it is called *invariant*.

@@ -25,3 +25,12 @@ $$ l\coloneq v\mid\mu \mapsto \mathtt{unit}\mid \mu[v/l]$$
 $$ \frac{t_1\mid\mu\mapsto t_1^{\prime}\mid\mu^{\prime}}{t_1\coloneq t_2\mid\mu \mapsto t_1^{\prime}\coloneq t_2\mid\mu^{\prime}}$$
 $$ \frac{t_2\mid\mu\mapsto t_2^{\prime}\mid\mu^{\prime}}{v_1\coloneq t_2\mid\mu\mapsto v_1 \coloneq t_2^{\prime} \mid\mu^{\prime}}$$
 Again, as with the typing rules all other evaluation rules of the language need to be adjusted to correctly propagate $\mu$
+
+### [[Subtyping]]
+
+Subtyping references cannot be done directly, as $\mathtt{Ref}$ is invariant. Instead, it has to be split into $\mathtt{Source}$ and $\mathtt{Sink}$ which can only read or write to references.
+
+$$ \mathtt{Ref}\ \tau <: \mathtt{Source}\ \tau$$
+$$ \mathtt{Ref}\ \tau <: \mathtt{Sink}\ \tau$$
+$$ \frac{\tau<:\sigma}{\mathtt{Source}\ \tau <: \mathtt{Source}\ \sigma}$$
+$$\frac{\sigma <: \tau}{\mathtt{Sink}\ \tau <: \mathtt{Sink}\ \sigma}$$

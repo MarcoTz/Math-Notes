@@ -24,3 +24,11 @@ $$ \langle \mathtt{mon}:\mathtt{Unit},\mathtt{tue}:\mathtt{Unit},\mathtt{wed}:\m
 A variant type $\langle l:\tau\rangle$ with only a single type $\tau$ can be used to "box" certain terms, that is give them labels to make sure they are only be used the way they are intended 
 $$ \langle \mathtt{dollarAmount}:\mathtt{Int}\rangle$$
 $$ \langle \mathtt{euroAmount}:\mathtt{Int}\rangle$$
+
+### [[Subtyping]]
+
+Subtying for variants is similar to subtyping for [[Records]]: 
+
+$$ \langle l_1:\tau_1,\dots,l_n:\tau_n\rangle <: \langle l_1:\tau_1,\dots,l_{n+k}:\tau_{n+k}\rangle $$ 
+$$\frac{\tau_i<:\sigma_i \forall i}{\langle l_1:\tau_1,\dots,l_n:\tau_n\rangle <: \langle l_1:\sigma_1,\dots,l_n:\sigma_n\rangle}$$ $$\frac{\langle k_1:\tau_1,\dots,k_n:\tau_n\rangle \text{ is a permutation of } \langle l_1:\sigma_1,\dots,l_n:\sigma_n\rangle}{\langle k_1:\tau_1,\dots,k_n:\tau_n\rangle <: \langle l_1:\sigma_1,\dots,l_n:\sigma_n\rangle}$$
+The advantage with variants and subtyping is that now ascription is unnecessary, as a variant with less fields is a subtype of one with more.

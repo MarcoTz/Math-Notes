@@ -10,3 +10,8 @@ Typing a term $t$ with type $\tau$ using an environment $\Gamma$ is written $\Ga
  $$ \frac{\Gamma,x:T_1\vdash t_2:T_2}{\Gamma\vdash\lambda x:T_1.t_2:T_1\rightarrow T_2}$$ $$\frac{x:T\in\Gamma}{\Gamma\vdash x:T}$$ 
  $$ \frac{\Gamma\vdash t_1:T_{11}\rightarrow T_{12}\quad \Gamma \vdash t_2:T_{11}}{\Gamma\vdash t_1\ t_2 : T_{12}}$$ In the rule for lambda abstractions, the type of $x$ is annotated in order to make sure this has a unique type. If we leave the annotation out, $x$ can be any type (but that might make the body untypable depending on which type is chosen).
 This system has type safety ([[Type Safety]]) assuming the base types on their own are.
+
+[[Subtyping]] in simplty typed lambda calculus can be done with only one additional rule for function types (along with the standard rules such as reflexivity)
+
+$$ \frac{T_1 <: S_1 \quad S_2 <: T_2}{S_1 \rightarrow S_2 <: T_1 \rightarrow T_2}$$
+Note that argument types are covariant ([[Variance]]) 
